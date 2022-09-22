@@ -11,7 +11,7 @@ To get your Microsoft ID card, send an email to GSAM India <DIOINDIA@microsoft.
 
 As of November 2021 there is a bit of a backlog so it is taking them a while to ship the cards, once you get an email confirmation about a ticket being raised, you can escalate it to potentially speed up the process.
 
-## Access for specific buildings
+## Enabling access to additional buildings
 
 Once you have your card, there is an activation process that should be outlined in an email. The card is set up for access only to the building you are assigned to, but if you need access to other buildings, follow these steps:
 
