@@ -75,15 +75,15 @@ html[data-theme="dark"] {
 
 .jumbo {
     font-size: var(--text-jumbo);
-    font-weight: var(--text-weight-normal);
+    font-weight: var(--text-weight-bold);
     line-height: var(--text-leading-narrow);
-    padding-bottom: 0;
+    padding-bottom: .25em;
 }
 
 h1 {
     font-size: var(--text-xxl);
     line-height: var(--text-leading-narrow);
-    font-weight: var(--text-weight-normal);
+    font-weight: var(--text-weight-bold);
     padding: var(--padding-normal) 0;
 }
 
@@ -97,7 +97,7 @@ h2 {
 h3 {
     font-size: var(--text-xl);
     line-height: var(--text-leading-normal);
-    font-weight: var(--text-weight-normal);
+    font-weight: var(--text-weight-bold);
     padding: var(--padding-normal) 0;
 }
 
@@ -111,7 +111,7 @@ h4 {
 h5 {
     font-size: var(--text-l);
     line-height: var(--text-leading-wide);
-    font-weight: var(--text-weight-normal);
+    font-weight: var(--text-weight-bold);
     padding: var(--padding-thin) 0;
 }
 
