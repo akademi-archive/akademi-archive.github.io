@@ -2,7 +2,9 @@
 layout: Post
 permalink: /notes
 feedformat: card
-title: Digital Garden
+title: IDC Help
 ---
 
-The feed page shows all notes from `notes` folder. If you want to hide any notes from this feed, add `feed:hide` on note's Frontmatter. Eg:[[Hidden Note]]
+The answer to every "How do I do that again?" question you might have as a Microsoft IDC Employee.
+
+If you are new here, a good place to start is [[New Joinee Checklist]]
