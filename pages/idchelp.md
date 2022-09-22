@@ -1,6 +1,6 @@
 ---
 layout: Post
-permalink: /notes
+permalink: /idchelp
 feedformat: card
 title: IDC Help
 ---
