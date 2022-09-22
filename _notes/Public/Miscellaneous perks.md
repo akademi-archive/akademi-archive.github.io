@@ -6,7 +6,7 @@ date modified: 22-09-2022
 ---
 Free 12 month subscription to Xbox game pass: [Home Page - Studios Tokens](https://studiostokens.azurewebsites.net/)
 
-Samsung corporate store: [Exclusive Offers | For Corporate Employees | Samsung India](https://www.samsung.com/in/store/corporate/login/)
+Samsung corporate store: [Exclusive Offers for Corporate Employees - Samsung India](https://www.samsung.com/in/store/corporate/login/)
 
 MSDN subscription + Azure credits:
 

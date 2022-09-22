@@ -232,7 +232,7 @@ button,
 input,
 select,
 textarea {
-  font-family: "IBM Plex Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif; }
+  font-family: "Source Serif 4", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif; }
 
 code,
 pre {
@@ -273,7 +273,7 @@ span {
 
 strong {
   color: var(--color-text-main);
-  font-weight: 700; }
+  font-weight: 800; }
 
 fieldset {
   border: none; }
@@ -638,7 +638,7 @@ a.has-text-danger:hover, a.has-text-danger:focus {
   font-weight: 600 !important; }
 
 .has-text-weight-bold {
-  font-weight: 700 !important; }
+  font-weight: 800 !important; }
 
 .is-family-primary {
   font-family: "Work Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important; }
@@ -1611,7 +1611,7 @@ a.tag:hover {
 .title {
   color: var(--color-border-dark);
   font-size: 1.563rem;
-  font-weight: 600;
+  font-weight: 800;
   line-height: 1.125; }
   .title strong {
     color: inherit;
@@ -1642,7 +1642,7 @@ a.tag:hover {
   line-height: 1.25; }
   .subtitle strong {
     color: var(--color-border-dark);
-    font-weight: 600; }
+    font-weight: 800; }
   .subtitle:not(.is-spaced) + .title {
     margin-top: -1.25rem; }
   .subtitle.is-1 {
@@ -1848,7 +1848,7 @@ a.tag:hover {
   color: var(--color-border-dark);
   display: flex;
   flex-grow: 1;
-  font-weight: 700;
+  font-weight: 800;
   padding: 0.75rem 1rem; }
   .card-header-title.is-centered {
     justify-content: center; }
