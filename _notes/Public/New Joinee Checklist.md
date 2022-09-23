@@ -24,9 +24,7 @@ The Microsoft MyHub app is available for [iOS](https://apps.apple.com/us/app/mic
 
 [EYIndiaPayrollMySpaceUserGuide.pdf (sharepoint.com)](https://microsoft.sharepoint.com/sites/hrw/DocLibrary/HRweb/Country/IN/EYIndiaPayrollMySpaceUserGuide.pdf)
 
-### The language
-
-A lot of Microsoft specific acronyms can be found here. If you hear something in a conversation, feel free to ask though—it can take a while to learn all the Three Letter Acronyms (or TLAs 😜)  
+The languageA lot of Microsoft specific acronyms can be found here. If you hear something in a conversation, feel free to ask though—it can take a while to learn all the Three Letter Acronyms (or TLAs 😜)  
 [http://o365wiki/Terminology](http://o365wiki/Terminology)  
   
 

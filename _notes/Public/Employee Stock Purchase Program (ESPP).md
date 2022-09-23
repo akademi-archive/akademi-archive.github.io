@@ -1,6 +1,6 @@
 ---
 feed: show
-title: Employee Stock Purchase Program (ESPP)
+title: ESPP
 date: 22-09-2022
 date modified: 22-09-2022
 ---
