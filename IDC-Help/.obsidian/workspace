@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "5d5867b44af67117",
+    "type": "split",
+    "children": [
+      {
+        "id": "2866831ab55120e8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Public/New Joinee Checklist.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b0c845d90ac6dda",
+    "type": "split",
+    "children": [
+      {
+        "id": "96a7ef94d8200487",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1cee1590ef7374e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bbe55e88936dcb11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "857cdc8b3188d5ae",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "00fa954a390fe3ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "d279ad43a269d3e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db6a8796b65f695c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Public/New Joinee Checklist.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "499e93ab2e1b4531",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Public/New Joinee Checklist.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "324816ae32f2a31d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ababdd8e325f7e54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Public/New Joinee Checklist.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2866831ab55120e8",
+  "lastOpenFiles": [
+    "Public/EY Portal.md",
+    "Public/Employee Stock Purchase Program (ESPP).md",
+    "Public/Setting up your devices.md",
+    "Public/Filing Expense Reimbursements.md",
+    "Public/Health & Insurance.md",
+    "Public/India Perks+.md",
+    "Public/Joining Formalities.md",
+    "Public/Miscellaneous perks.md",
+    "Public/New Joinee Checklist.md",
+    "Public/Relocation Bonus.md"
+  ]
+}

@@ -12,7 +12,7 @@ date modified: 22-09-2022
 
 ### All Icons
 
-[IconCloud | The Single Source for Windows Icons](https://iconcloud.design/)
+[IconCloud - The Single Source for Windows Icons](https://iconcloud.design/)
 
 ### Licensed music for videos/demos.
 
