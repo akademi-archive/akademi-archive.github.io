@@ -10,5 +10,5 @@ From time to time, you will need to make an expense claim from the company for t
 Microsoft has two types of reimbursement processes. 
 
 1. [[MyExpense]]
-2. [[EY Portal]]
+2. [[EY Process Pay]]
 
