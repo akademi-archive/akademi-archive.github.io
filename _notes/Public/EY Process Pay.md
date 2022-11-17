@@ -1,8 +1,8 @@
 ---
 feed: show
-title: EY Portal
+title: EY Process Pay
 date: 22-09-2022
-date modified: 22-09-2022
+date modified: 17-11-2022
 ---
 
 EY Process Pay is an evil piece of software from hell. It replaced [[EY Portal]] in 2022, but is somehow barely any better.
