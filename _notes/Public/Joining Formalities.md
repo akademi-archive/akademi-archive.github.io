@@ -15,6 +15,7 @@ Most information about corporate policies, payroll, career, etc. can be found at
 
 The Microsoft MyHub app is available for iOS and Android. It allows you to access holidays, stock awards, request time off, etc.
 
+
 ## New@Microsoft
 
 [New@Microsoft (sharepoint.com)](https://microsoft.sharepoint.com/sites/infopedia/GlobalLearning/Pages/NewEmployees.aspx)
