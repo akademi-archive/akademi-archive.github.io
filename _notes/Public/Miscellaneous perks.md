@@ -10,7 +10,7 @@ Free 12 month subscription
 [Home Page - Studios Tokens](https://studiostokens.azurewebsites.net/)
 
 ### Samsung corporate store
-[Exclusive Offers for Corporate Employees - Samsung India](https://www.samsung.com/in/store/corporate/login/)
+[Samsung India Corporate Store](https://www.samsung.com/in/web/b2b-login/corporate/)
 
 ### Headspace for work
 [Register](https://work.headspace.com/microsoft/member-enroll)
