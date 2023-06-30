@@ -18,3 +18,12 @@ Free 12 month subscription
 ### Windows and other software product keys
 MSDN subscription + Azure credits
 [Product Keys - Visual Studio Subscriptions Portal](https://my.visualstudio.com/ProductKeys?mkt=en-us)
+
+### LinkedIn Learning  
+[https://aka.ms/mslibrary/LILearning](https://aka.ms/mslibrary/LILearning)
+
+### Microsoft Library
+
+[MS Library](https://microsoft.sharepoint.com/sites/library)​
+
+[Accessing The New York Times (sharepoint.com)](https://microsoft.sharepoint.com/sites/library/SitePages/InfoDesk/TheNewYorkTimes.aspx)
