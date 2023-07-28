@@ -7,13 +7,13 @@ date modified: 28-07-2023
 
 >This is information I've gathered from around the internet, and shouldn't be taken as fact without verification. If you have a CA, please check with them.
 
-Employees receive stock via [[Employee Stock Ownership Plan (ESOP)]] or via [[Employee Stock Purchase Program (ESPP)]].
+Employees receive stock via [[Employee Stock Ownership Plan (ESOP)]] or via [[Employee Stock Purchase Program (ESPP)]]
 
 ### ESOP
 
-ESOPs are declared under Stock Vest Perquisite in Annexure for Form 16 Part B that Microsoft gives to employees. So the income tax for ESOPs is automatically paid via salary deductions. 
+ESOPs are declared under Stock Vest Perquisite in the Annexure for Form 16 Part B that Microsoft gives to employees. So the income tax for ESOPs is automatically paid via salary deductions. 
 
-However, since Microsoft stock is a foreign asset, the fact that you own this stock must be separately declared in your Income Tax returns under Schedule FA, and this doesn't happen automatically. You have to declare your ownership of these stocks even if you haven't sold any and don't have a profit on them.
+However, since Microsoft stock is a foreign asset, the fact that you own this stock as an Indian resident must be separately declared in your Income Tax returns under Schedule FA. This doesn't happen automatically, and you have to declare your ownership of these stocks even if you haven't sold any and don't have a profit on them.
 
 [How to file your income tax return on ClearTax if you invest in US stocks?](https://cleartax.in/s/how-to-file-income-tax-return-on-cleartax-if-you-invest-in-us-stocks)
 
@@ -35,7 +35,7 @@ Under the India income tax law, exchange rate for conversion of income earned in
 
 SBI publishes the rates daily on its website in PDF format, barring Sundays and bank holidays. Unfortunately, there is no official way to access historical data.
 
-Some random guy on Github scrapes this data from SBI's PDFs and has a searchable table here: [SBI Forex Rates (sahilgupta on Github)](https://github.com/sahilgupta/sbi_forex_rates/blob/main/csv_files/SBI_REFERENCE_RATES_USD.csv)
+[Sahil Gupta, a PM at Microsoft](https://www.sahil-gupta.in/about/) scrapes this data from SBI's PDFs and has a searchable table here: [SBI Forex Rates (sahilgupta on Github)](https://github.com/sahilgupta/sbi_forex_rates/blob/main/csv_files/SBI_REFERENCE_RATES_USD.csv)
 
 ### **Are there any consequences if I do not report my US shareholdings?**
 
