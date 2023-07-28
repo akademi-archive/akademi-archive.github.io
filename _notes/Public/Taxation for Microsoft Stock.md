@@ -5,6 +5,8 @@ date: 28-07-2023
 date modified: 28-07-2023
 ---
 
+>This is information I've gathered from around the internet, and shouldn't be taken as fact without verification. If you have a CA, please check with them.
+
 Employees receive stock via [[Employee Stock Ownership Plan (ESOP)]] or via [[Employee Stock Purchase Program (ESPP)]].
 
 ### ESOP
