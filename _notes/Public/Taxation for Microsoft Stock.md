@@ -5,7 +5,7 @@ date: 28-07-2023
 date modified: 28-07-2023
 ---
 
-Employees receive stock via [Employee Stock Ownership Plan (ESOP)] or via [Employee Stock Purchase Program [ESPP]].
+Employees receive stock via [[Employee Stock Ownership Plan (ESOP)]] or via [[Employee Stock Purchase Program (ESPP)]].
 
 ### ESOP
 

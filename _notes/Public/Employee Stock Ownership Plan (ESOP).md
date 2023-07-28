@@ -2,7 +2,7 @@
 feed: show
 title: Employee Stock Ownership Plan (ESOP)
 date: 22-09-2022
-date modified: 22-09-2022
+date modified: 28-07-2023
 ---
 
 This stands for Employee Stock Ownership Plan, and refers to the stocks you get when you join Microsoft. However, they “vest” over time, and that only starts from your second year in the company. See [Total Rewards (microsoft.com)](https://totalrewards.microsoft.com/) for your Stocks.
