@@ -21,9 +21,9 @@ However, since Microsoft stock is a foreign asset, the fact that you own this st
 
 Holding Microsoft stock means that you get paid dividends on the stocks. Some tax is witheld by the US government on these dividends. 
 
-These dividends should be declared as income from other sources in the year they are paid, and the assessee must pay the applicable tax on dividends. Dividends are taxable in the year they are earned, regardless of whether they are remitted to India or not. You can claim this tax as a deduction while filing your Income-tax Return in India to avoid double taxation.
+These dividends should be declared in your ITR as income from other sources in the year they are paid, and you must pay the applicable tax on dividends. Dividends are taxable in the year they are earned, regardless of whether they are remitted to India or not. 
 
-You can, however, claim Foreign Tax Credit in India and get this back. You should receive a hard copy of US Form 1042s sent to your home address, and you need to upload it as proof while filling Form 67 in your ITR.
+You can claim this tax as a deduction while filing your Income-tax Return in India to avoid double taxation. You should receive a hard copy of US Form 1042s sent to your home address, and you need to upload it as proof while filling Form 67 in your ITR to claim Foreign Tax Credit in India.
 
 [Form 67 and Claim of Foreign Tax Credit (cleartax.in)](https://cleartax.in/s/form-67-claim-foreign-tax-credit)
 
