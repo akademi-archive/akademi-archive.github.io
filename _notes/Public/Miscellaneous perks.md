@@ -27,7 +27,7 @@ MSDN subscription + Azure credits
 
 ### Company Store
 
-Discounted software for employees, friends & family. No hardware is available in the India store
+Discounted software (M365, Xbox & Windows games) for employees, friends & family. No hardware is available in the India store. You can, however, also get 75% off on LinkedIn premium.
 
 [Microsoft Company Store (ecompanystore.com)](https://store.ecompanystore.com/microsoft/Shop/Landing/)
 
