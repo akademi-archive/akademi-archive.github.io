@@ -37,7 +37,7 @@ No assessment = No testing of MAS requirements, and UI exists
 - [Supporting VoiceOver in your app | Apple Developer Documentation](https://developer.apple.com/documentation/accessibility/supporting_voiceover_in_your_app)
 
 ## Resources
-- [PPT Deck with Guidelines]([Accessibility Standards, Guidelines and Toolkit.pptx (sharepoint.com)](https://microsoftapc-my.sharepoint.com/:p:/g/personal/v-kaushikdas_microsoft_com/ER-U7o-Ze9pAnAON8xDgwRsBkY-U2JYBTTiHXOvVkAym8A?e=SSfkW1&PreviousSessionID=ebe14f20-5e10-90b2-a72e-c01ec9d8d270))
+- [PPT Deck with Guidelines](https://microsoftapc-my.sharepoint.com/:p:/g/personal/v-kaushikdas_microsoft_com/ER-U7o-Ze9pAnAON8xDgwRsBkY-U2JYBTTiHXOvVkAym8A?e=SSfkW1&PreviousSessionID=ebe14f20-5e10-90b2-a72e-c01ec9d8d270))
 - https://www.figma.com/file/C2eSXCRS1ChnsZxEk3FOsm/WB-Collaboration-UX-Templates?node-id=12%3A84&t=NtIDAX63J6PF6PKI-1
 - [Accessibility (coherence-portal.azurewebsites.net)](https://coherence-portal.azurewebsites.net/Accessibility#Overview&About%20accessibility)
 - [AcessibilityDesign_May18.pptx (sharepoint.com)](https://microsoft.sharepoint.com/:p:/t/odspux/ETjymXE1ug9LnrFfV0rALw8B1CLlLWqTjca8usMzhembRg?e=HSt4m2)
