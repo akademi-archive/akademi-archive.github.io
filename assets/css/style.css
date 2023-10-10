@@ -197,6 +197,14 @@ main {
 .timestamp{
     font-size: 12px;
     opacity: .9;
+    margin-top: -16px;
+    margin-bottom: 24px;
+}
+
+.timestamp img{
+    height: 16px;
+    width: 16px;
+    transform: translateY(3px);
 }
 
 /* 04. Buttons*/
