@@ -194,6 +194,11 @@ main {
     min-height: 300px;
 }
 
+.timestamp{
+    font-size: 12px;
+    opacity: .9;
+}
+
 /* 04. Buttons*/
 
 .buttons.for-back-home:not(:last-child) {
