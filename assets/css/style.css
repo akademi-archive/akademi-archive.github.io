@@ -205,6 +205,7 @@ main {
     height: 16px;
     width: 16px;
     transform: translateY(3px);
+    border-radius: 24px;
 }
 
 /* 04. Buttons*/
@@ -266,10 +267,10 @@ main {
 }
 
 .related-wrapper {
-    column-count: 2 !important;
+    /* column-count: 2 !important;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-gap: 1rem 2rem;
+    grid-gap: 1rem 2rem; */
 }
 
 .related-group {
