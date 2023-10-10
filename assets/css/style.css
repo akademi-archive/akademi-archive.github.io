@@ -209,7 +209,7 @@ main {
 }
 
 li::marker {
-    color: #2380ED;
+    color: var(--color-text-link);
 }
 
 /* 04. Buttons*/
