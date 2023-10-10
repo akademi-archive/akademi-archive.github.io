@@ -208,6 +208,10 @@ main {
     border-radius: 24px;
 }
 
+li::marker {
+    color: #2380ED;
+}
+
 /* 04. Buttons*/
 
 .buttons.for-back-home:not(:last-child) {
