@@ -116,7 +116,7 @@
                     </style>                    
                     {%- endif -%}
                     <h1>{{page.title}}</h1>
-                    <p class="timestamp">Last updated by <img src="/assets/img/gyan.png"> Gyan on {{page.date modified | date: "%b %d, %y" }}</>
+                    <p class="timestamp">Last updated by <img src="/assets/img/gyan.png"> Gyan on {{page.date modified | date: "%-d %B %Y" }}</>
                     {%- include Content.html -%}
                     {%- include Backlinks.html -%}
                     </div>
