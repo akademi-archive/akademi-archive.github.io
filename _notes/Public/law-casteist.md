@@ -11,7 +11,9 @@ cover-art:
 cover-artist: Aarman Roy
 date: 05-05-2024
 date modified: 05-05-2024
+feed: show
 ---
+
 This is the first part of an translated and edited transcript of a conversation first had on ‘Lights, Camera, Azadi’ a podcast hosted and produced by Vandit Jain. The podcast, which aired on 19 September 2020, may be found [here](https://web.archive.org/web/20220122171024/https://lightscameraazadi.in/podcast/26-the-caste-of-law-with-nikita-and-disha/).
 
 DISHA WADEKAR: If I had to introduce myself I would say that I come from a dissenting community, who are called ‘Vimukta jati’: criminal tribe and denotified tribe. I would like to give a little history to this community. I call this community a dissenting community because it is a community that resisted the British Raj, and their colonial policies relating to tribal waters, jungle and land. These communities and tribes actively resisted the British Raj’s invasion into their forests and resources. And – they were awarded the criminal tag for their resistance. They were deemed “criminal” by the law, more specifically by the Criminal Tribes Act (1871). This Act was made to suppress the tribes and their resistance.More than a 200 tribes were notified as criminal at birth by this Act. These communities were placed in what can only be described as open jails. It was basically slavery: a kind of slavery where they were made to do menial jobs, where they were made to serve their colonial masters, and where they were forcibly taken from one open jail to another. This has been the history of Adivasis. India gained independence in 1947 but this criminal tag was only removed in 1952, when these communities were denotified. Our, and my own, independence day is not 15 August 1947, but 31 August 1952- when my people were denotified. 

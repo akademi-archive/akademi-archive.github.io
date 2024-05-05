@@ -8,6 +8,7 @@ cover-art:
 cover-artist: 
 date: 25-12-2020
 date modified: 05-05-2024
+feed: show
 ---
 The Universal Declaration Of Human Rights (UDHR), adopted in 1948 by the United Nations General Assembly, enshrines within it human rights and freedoms that are universal and inalienable. It holds guarantees of natural rights that are independent of any culture or nation state. A right to privacy stems from these natural rights – specifically, Article 12 of the UDHR which stipulates, ‘No one shall be subjected to arbitrary interference with [their] privacy, family, home or correspondence, nor to attacks upon [their] honour and reputation. Everyone has the right to the protection of the law against such interference or attacks.’ Data Protection as extension to this right to privacy was specifically envisioned after the digital revolution, when elements of our personhood began to extend outside our physical selves: through biometrics, correspondence records, financial credit and consumer profiles. 
 

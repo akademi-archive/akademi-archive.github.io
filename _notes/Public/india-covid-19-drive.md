@@ -7,6 +7,7 @@ cover-art:
 cover-artist: 
 date: 03-05-2020
 date modified: 05-05-2024
+feed: show
 ---
 
 Indian states and health experts [warn](https://www.livemint.com/news/india/states-now-wary-of-vaccine-shortage-11619463000804.html) that shortages of COVID-19 jabs might disrupt plans to immunise all adults and prolong India’s severe second wave. A prolonged crisis might, in turn, enable dangerous [variants](https://www.nytimes.com/live/2021/05/01/world/covid-vaccine-coronavirus-cases) to evolve, spread and possibly evade vaccines.
