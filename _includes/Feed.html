@@ -49,10 +49,12 @@
         {%- if note_items.feed == "show" -%}
                 <div class="notelist-feed">
                     <a href="{{ site.baseurl }}{{note_items.url}}">
-                        <h6>{{ note_items.title }}</h6>
+                        <p>{{ note_items.filed-under }}</p>
+                        <h2>{{ note_items.title }}</h2>
                         <p class="excerpt">
                             {{ note_items.content | strip_html | strip | remove: "[[" | remove: "]]" | remove: "-" | escape | truncate: 200 }}
                         </p>
+                        <p>{{ note_items.author }}</p>
                     </a>
                 </div>
         {%- endif -%}
