@@ -1,5 +1,5 @@
 ---
-filed-under: 
+filed-under: Newsletter
 title: "Love, Pavemented, Edition 1"
 subtitle: 
 author: "Sukhnidh Kaur"
@@ -13,6 +13,7 @@ archived-snapshot: 20220527225832
 feed: show
 hero: /assets/img/akademi/0c725e_8a0efe63f3a442ab8b2f0e4471456c37_mv2.jpg
 authors: [sukhnidh-kaur]
+series: "Love, Pavemented"
 ---
 ## #BlackLivesMatter
 

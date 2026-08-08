@@ -1,5 +1,5 @@
 ---
-filed-under: 
+filed-under: Newsletter
 title: "Cancel Culture by Sukhnidh Kaur"
 subtitle: "Cancelling is about reclaiming power and cancelling is about fixing broken systems. The thing about such systems is that there are no perfect solutions - that is a function of their brokeness."
 author: "Sukhnnidh Kaur"
@@ -13,6 +13,7 @@ archived-snapshot: 20220527224910
 feed: show
 hero: /assets/img/akademi/0c725e_eae15f0ba46a40c49d5a87aca0ad83a4_mv2.png
 authors: [sukhnidh-kaur]
+series: "Love, Pavemented"
 ---
 # Cancel Culture: Why Does It Not Work?
 

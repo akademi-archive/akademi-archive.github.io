@@ -353,14 +353,6 @@ body.ak {
   color: var(--ak-muted); margin: 0.7rem 0 0;
 }
 
-/* the newest piece runs wide, the way the original led with a feature */
-@media (min-width: 60rem) {
-  .ak-grid > .ak-card.is-lead { grid-column: span 2; }
-  .ak-grid > .ak-card.is-lead img { aspect-ratio: 16 / 9; }
-  .ak-grid > .ak-card.is-lead h2 { font-size: 1.9rem; line-height: 1.05; }
-  .ak-grid > .ak-card.is-lead .ak-card-deck { font-size: 1.1rem; max-width: 34rem; }
-}
-
 .ak-foot {
   border-top: 1px solid var(--ak-rule);
   margin-top: 5rem;

@@ -16,7 +16,6 @@
 
   cards.forEach(function (c) {
     c.dataset.haystack = (c.dataset.search || '').toLowerCase();
-    c.dataset.wasLead = c.classList.contains('is-lead') ? '1' : '';
   });
 
   function norm(s) {
@@ -37,8 +36,6 @@
       var show = okText && okCat;
       card.hidden = !show;
       if (show) shown++;
-      // the wide lead slot only makes sense in the unfiltered view
-      card.classList.toggle('is-lead', !!card.dataset.wasLead && !terms.length && !activeCat);
     });
 
     if (count) {

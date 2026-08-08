@@ -1,5 +1,5 @@
 ---
-filed-under: 
+filed-under: Newsletter
 title: "Love, Pavemented"
 subtitle: "This edition of Love, Pavemented looks at how citizens of Kashmir are being digitally silenced."
 author: "Sukhnidh Kaur"
@@ -13,6 +13,7 @@ archived-snapshot: 20220527213403
 feed: show
 hero: /assets/img/akademi/0c725e_6c4996be0ed14a96b2786bc78499b37b_mv2.png
 authors: [sukhnidh-kaur]
+series: "Love, Pavemented"
 ---
 ## Digitally Silencing
 

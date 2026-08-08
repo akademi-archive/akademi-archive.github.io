@@ -1,5 +1,5 @@
 ---
-filed-under: 
+filed-under: Newsletter
 title: "On Protest, Activism and Big Tech by Sukhnidh Kaur"
 subtitle: "New media and social change have a complicated relationship. The seventh edition of Love, Pavemented tries to understand it and answer the question: does social media activism work?"
 author: "Sukhnidh Kaur"
@@ -13,6 +13,7 @@ archived-snapshot: 20220527222400
 feed: show
 hero: /assets/img/akademi/0c725e_87555889aa11404fa8f23d46ae9111a2_mv2.jpg
 authors: [sukhnidh-kaur]
+series: "Love, Pavemented"
 ---
 I have a confession: I never signed up on social media to make the world a better place.
 

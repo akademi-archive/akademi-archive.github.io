@@ -52,20 +52,15 @@
   <p class="ak-empty" hidden>Nothing matches that. Try a writer's name, or a subject like <em>caste</em>, <em>labour</em>, <em>Kashmir</em>.</p>
 
   <div class="ak-grid">
+  {%- comment -%} Everything here is equally old, so the grid is uniform —
+      no featured slot, which would imply a "latest" that doesn't exist. {%- endcomment -%}
   {%- assign ak_items = site.notes | sort: "date" | reverse -%}
-  {%- assign ak_lead_taken = false -%}
   {%- for item in ak_items -%}
     {%- if item.feed == "show" and item.title and item.title != "" -%}
       {%- assign ak_cover = item["cover-art"] -%}
       {%- assign ak_cat = item["filed-under"] -%}
-      {%- comment -%} lead the grid with the newest piece that actually has artwork {%- endcomment -%}
-      {%- assign ak_is_lead = false -%}
-      {%- if ak_lead_taken == false and ak_cover and ak_cover != "" -%}
-        {%- assign ak_is_lead = true -%}
-        {%- assign ak_lead_taken = true -%}
-      {%- endif -%}
       {%- capture ak_hay -%}{{ item.title }} {{ item.subtitle }} {{ item.author }} {{ ak_cat }} {{ item["author-bio"] }} {{ item.content | strip_html | truncate: 1200 }}{%- endcapture -%}
-      <a class="ak-card{% if ak_is_lead %} is-lead{% endif %}" href="{{ site.baseurl }}{{ item.url }}"
+      <a class="ak-card" href="{{ site.baseurl }}{{ item.url }}"
          data-category="{{ ak_cat }}" data-search="{{ ak_hay | strip_newlines | escape_once }}">
         {%- if ak_cover and ak_cover != "" -%}
         <figure><img src="{{ site.baseurl }}{{ ak_cover }}" alt="" loading="lazy"></figure>

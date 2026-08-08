@@ -1,5 +1,5 @@
 ---
-filed-under: 
+filed-under: Newsletter
 title: "Love, Pavemented"
 subtitle: "This edition of the newsletter touches upon the Beirut blast and the humanitarian crisin in Lebanon."
 author: "Sukhnidh Kaur"
@@ -13,6 +13,7 @@ archived-snapshot: 20220527210207
 feed: show
 hero: /assets/img/akademi/0c725e_bd1ff17a2ef14dd0ae2c1a6407ce599a_mv2.png
 authors: [sukhnidh-kaur]
+series: "Love, Pavemented"
 ---
 ## Beirut Blasts and
 

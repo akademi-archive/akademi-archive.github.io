@@ -63,7 +63,9 @@
     <article class="ak-article">
         <header>
             {%- assign ak_cat = page["filed-under"] -%}
-            {%- if ak_cat and ak_cat != "" -%}
+            {%- if page.series and page.series != "" -%}
+            <p class="ak-kicker">{{ ak_cat | default: "Newsletter" }} · <span class="ak-cat">{{ page.series }}</span></p>
+            {%- elsif ak_cat and ak_cat != "" -%}
             <p class="ak-kicker">Filed under: <span class="ak-cat">{{ ak_cat }}</span></p>
             {%- endif -%}
 
