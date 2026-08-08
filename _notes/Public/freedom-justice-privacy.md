@@ -1,5 +1,5 @@
 ---
-filed-under: 
+filed-under: Law
 title: "Freedom, Justice and Privacy"
 subtitle: "Our government and technocrats tell us data is the new oil. This is a lie. At the root of this narrative is the erasure of the central power of information. Who holds it. And over whom."
 author: "Sreemoyee Mukherjee"

@@ -1,5 +1,5 @@
 ---
-filed-under: 
+filed-under: Society
 title: "‘A silk weaver can only weave silk, he cannot wear it.'"
 subtitle: "The Tamil film, Kanchivaram , explores the exploitation of weavers in Tamil Nadu through the story of its protagonist Vengadam, who belongs to the traditional silk weaving community, and is set within a period that saw weavers struggling with economic inequality and rapidly rising suicide rates."
 author: "Saachi D'Souza"

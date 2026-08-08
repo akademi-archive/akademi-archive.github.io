@@ -1,5 +1,5 @@
 ---
-filed-under: 
+filed-under: Labour
 title: "Farmer Protests and the Importance of Mandis"
 subtitle: "Mandis are in mainstream focus.  Not for their crumbling infrastructure this time, but for their centrality as trading centres for agrarian India, and the farmer protests."
 author: "Shivani Gupta"

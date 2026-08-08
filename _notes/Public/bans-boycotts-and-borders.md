@@ -1,5 +1,5 @@
 ---
-filed-under: 
+filed-under: Politics
 title: "Bans, Boycotts, and Borders"
 subtitle: "India has announced three rounds of app bans in response to skirmishes on its border with China. While China is yet to respond with any economic sanctions, tensions are escalating and it is fair to assume that these are impending."
 author: "Dev Lewis"

@@ -1,5 +1,5 @@
 ---
-filed-under: 
+filed-under: History
 title: "Sex Work Under The Colonial Raj: Calcutta"
 subtitle: "It is imperative, to contextualize the emergence of brothel-based sex work and clarify our understanding of red-light areas. Major designated sex trade zones exist only in Delhi, West Bengal and Maharashtra. There are specific historical reasons behind the rise of both brothels and red-light areas in these cities"
 author: "Nihira Ram"

@@ -1,5 +1,5 @@
 ---
-filed-under: 
+filed-under: Gender
 title: "Guruswamy and Katju, Your Rainbow Doesn't Hide Your Casteism"
 subtitle: "There are a lot of structural reasons why Guruswamy and Katju get to present themselves as leaders of this movement, and in doing so, tap into exactly the structural violence through which Section 377 has come to be represented."
 author: "Akhil Kang and Vqueeram Aditya Sahai"

@@ -1,5 +1,5 @@
 ---
-filed-under: 
+filed-under: Society
 title: "We Must Call It What It Is: Caste-Based Violence"
 subtitle: "A nineteen-year-old girl who belonged to a Dalit community was brutally raped and killed by four upper caste men. This is not just a case of rape. It’s a caste atrocity."
 author: "Jyotsna Siddharth"

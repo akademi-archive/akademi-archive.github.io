@@ -1,5 +1,5 @@
 ---
-filed-under: 
+filed-under: Labour
 title: "The Cost of Cleanliness"
 subtitle: "Dr. Ambedkar had argued that the division of labour in India is accompanied by graded inequality and occupational immobility. Historically, lower-castes and especially untouchable communities have been forced to engage in dehumanising work."
 author: "Pradeep Salve"

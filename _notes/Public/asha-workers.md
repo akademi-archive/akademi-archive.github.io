@@ -1,5 +1,5 @@
 ---
-filed-under: 
+filed-under: Labour
 title: "The Women, The System, The Struggle: The Story of ASHA Workers"
 subtitle: "Between 7 to 9 August this year, over 600,000 ASHAs went on a strike. They demanded better pay, medical protection, regular COVID-19 testing, and the status of government employees."
 author: "Saumya Kalia"

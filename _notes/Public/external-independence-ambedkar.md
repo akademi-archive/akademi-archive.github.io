@@ -1,5 +1,5 @@
 ---
-filed-under: 
+filed-under: Society
 title: "External Independence, Internal Slavery"
 subtitle: "As Ambedkar had predicted, Indian ‘independence’ did not change a great deal for many Dalit communities.As Ambedkar had predicted, Indian ‘independence’ did not change a great deal for many Dalit communities."
 author: "Durgesh Solanki and Rajyashri Goody"

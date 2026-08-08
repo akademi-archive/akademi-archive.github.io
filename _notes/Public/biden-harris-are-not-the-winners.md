@@ -1,5 +1,5 @@
 ---
-filed-under: 
+filed-under: Politics
 title: "Biden-Harris Are Not The Real Winners: A Feeling From Philadelphia"
 subtitle: "The historic contours of the 2020 US Presidential election are not something we take lightly. Yet, it is our experience as residents of this historic American city, Philadelphia – one whose history is defined by violence and injustice against its inhabitants and those outside its borders."
 author: "Tausif Noor and Chip Sinton"

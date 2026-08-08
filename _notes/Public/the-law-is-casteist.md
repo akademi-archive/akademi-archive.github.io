@@ -1,5 +1,5 @@
 ---
-filed-under: 
+filed-under: Society
 title: "The Law is Casteist"
 subtitle: "Lawyers Disha Wadekar and Nikita Sonavane give deep and searing insight into their personal and intellectual understanding of the inherent casteist bias of the Indian legal system, based on their many years of work and engagement as lawyers and researchers."
 author: "Nikita Sonavane and Disha Wadekar"
