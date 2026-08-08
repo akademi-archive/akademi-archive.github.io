@@ -13,6 +13,7 @@ archived-snapshot: 20220527222412
 feed: show
 hero: /assets/img/akademi/0c725e_bd9bd6ce184b4f629ad37f2261016b39_mv2.jpg
 hero-alt: "ants-web.jpg"
+authors: [tabish-rafiq-mir]
 ---
 Year 2025, dreaming state
 

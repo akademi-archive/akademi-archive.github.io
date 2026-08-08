@@ -13,6 +13,7 @@ archived-snapshot: 20220527230308
 feed: show
 hero: /assets/img/akademi/0c725e_69c2e409036a49d4a2fc25495cb8392a_mv2.jpg
 hero-alt: "IMG_4073.JPG"
+authors: [editorial-team]
 ---
 Father Stan Swamy, an 84-year-old Jesuit priest and tribal rights activist, was [jailed on 8 October 2020 under the draconian Unlawful Activities (Prevention) Act](https://www.thehindu.com/news/national/bhima-koregaon-nia-arrests-83-year-old-activist-stan-swamy-from-ranchi/article32808396.ece) over his alleged involvement in the Elgar Parishad case. Despite his frail condition and the COVID-19 outbreak across prisons in Maharashtra, his numerous bail appeals were denied. He was finally admitted to the Holy Family Hospital in Mumbai after he got infected with the virus and his health started worsening. On 5 July 2021, he passed away while on ventilator support.
 

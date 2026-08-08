@@ -13,6 +13,7 @@ archived-snapshot: 20220527225718
 feed: show
 hero: /assets/img/akademi/0c725e_186fdae1c12f47aab863463b19f40536_mv2.jpg
 hero-alt: "audacity-questions-web.jpg"
+authors: [nishant-kauntia]
 ---
 Late in the afternoon on 11 August 2020, three journalists working with The Caravan, an independent news publication based out of New Delhi, were brutally attacked by a Hindu mob while reporting in Subhash Mohalla, in North East Delhi’s North Ghonda neighbourhood. On 5 August 2020 – the day of the bhoomi pujan for the construction of Ayodhya’s much contested Ram Mandir – many Hindus celebrated in public space across the city. Saffron flags were hoisted, diyas lit and fire crackers burst. After nightfall, in Lane 2 of Subhash Mohalla, saffron flags appeared at the entrance of the street, which led up to a mosque. Residents also allege to have overheard [‘communally charged’ rallying cries](https://thewire.in/communalism/north-east-delhi-saffron-flags-bhoomi-pujan).
 

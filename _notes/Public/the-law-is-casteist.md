@@ -13,6 +13,7 @@ archived-snapshot: 20220122171024
 feed: show
 hero: /assets/img/akademi/0c725e_eba1dc50ba1f47b7adc43fbc3436d445_mv2.png
 hero-alt: "Visualising-Caste-web.png"
+authors: [nikita-sonavane, disha-wadekar]
 ---
 Novermber 6, 2020
 

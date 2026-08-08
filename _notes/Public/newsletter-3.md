@@ -12,6 +12,7 @@ source-url: https://www.akademimag.com/newsletter-3
 archived-snapshot: 20220527220446
 feed: show
 hero: /assets/img/akademi/0c725e_a1d3385b61ba4f18b6aceb5b9730dca7_mv2.jpg
+authors: [sukhnidh-kaur]
 ---
 ## "You're Fake News"
 

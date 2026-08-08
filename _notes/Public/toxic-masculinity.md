@@ -13,6 +13,7 @@ archived-snapshot: 20220527211033
 feed: show
 recovery-status: metadata-only
 hero: /assets/img/akademi/0c725e_253d98c905be4b6c8d3059904f852c3b_mv2.jpg
+authors: [charu-pragya]
 ---
 *The text of this piece was not recovered.* Every Internet Archive snapshot of
 `akademimag.com/toxic-masculinity` returned the body of a different article

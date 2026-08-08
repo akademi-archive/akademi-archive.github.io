@@ -12,6 +12,7 @@ source-url: https://www.akademimag.com/law-is-casteist-part-2
 archived-snapshot: 20201203023132
 feed: show
 hero: /assets/img/akademi/0c725e_475bcf3e0fac457087a5a6bde7cbc6cf_mv2.jpg
+authors: [nikita-sonavane, disha-wadekar]
 ---
 # Casteist Part II
 

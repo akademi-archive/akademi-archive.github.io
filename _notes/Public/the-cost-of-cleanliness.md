@@ -13,6 +13,7 @@ archived-snapshot: 20220527220005
 feed: show
 hero: /assets/img/akademi/0c725e_40d3694065664baa8e999f1045d38c63_mv2.gif
 hero-alt: "Cleanliness-web-gif.gif"
+authors: [pradeep-salve]
 ---
 “Caste System is not merely a division of labour. It is also a division of labourers.”
 

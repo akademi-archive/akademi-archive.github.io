@@ -48,6 +48,7 @@
         <a class="ak-wordmark" href="{{ site.baseurl }}/">Akademi</a>
         <nav>
             <a href="{{ site.baseurl }}/">Archive</a>
+            <a href="{{ site.baseurl }}/writers">Writers</a>
             <a href="{{ site.baseurl }}/about">About</a>
         </nav>
     </header>
@@ -73,7 +74,14 @@
             {%- endif -%}
 
             <p class="ak-byline">
-                {%- if page.author and page.author != "" -%}
+                {%- if page.authors and page.authors.size > 0 -%}
+                Words by&nbsp;{% for a in page.authors %}
+                  {%- assign who = site.authors | where: "slug", a | first -%}
+                  {%- if who -%}
+                  <a class="name" href="{{ site.baseurl }}{{ who.url }}">{{ who.name }}</a>
+                  {%- else -%}<span class="name">{{ a }}</span>{%- endif -%}
+                  {% if forloop.last == false %}{% if forloop.rindex == 2 %} and {% else %}, {% endif %}{% endif %}{% endfor %}
+                {%- elsif page.author and page.author != "" -%}
                 Words by <span class="name">{{ page.author }}</span>
                 {%- endif -%}
                 {%- if page.date -%}
@@ -91,8 +99,22 @@
             {{ content }}
         </div>
 
+        {%- comment -%} Bios come from the authors collection so they stay in one place {%- endcomment -%}
+        {%- assign ak_printed = false -%}
+        {%- if page.authors and page.authors.size > 0 -%}
+          {%- for a in page.authors -%}
+            {%- assign who = site.authors | where: "slug", a | first -%}
+            {%- if who and who.content and who.content != "" -%}
+            <p class="ak-bio">
+              <a href="{{ site.baseurl }}{{ who.url }}">{{ who.name }}</a>
+              {{ who.content | strip_html | strip }}
+            </p>
+            {%- assign ak_printed = true -%}
+            {%- endif -%}
+          {%- endfor -%}
+        {%- endif -%}
         {%- assign ak_bio = page["author-bio"] -%}
-        {%- if ak_bio and ak_bio != "" -%}
+        {%- if ak_printed == false and ak_bio and ak_bio != "" -%}
         <p class="ak-bio">{{ ak_bio }}</p>
         {%- endif -%}
 
@@ -115,6 +137,63 @@
             {%- if content and content != "" -%}<p>{{ content | strip_html | strip }}</p>{%- endif -%}
         </div>
         {%- include Feed.html -%}
+    </div>
+    {%- endif -%}
+
+    {%- comment -%} ---------- Writers index ---------- {%- endcomment -%}
+    {%- if page.content-type == "writers" -%}
+    <div class="ak-index">
+        <div class="ak-intro">
+            <p class="ak-kicker">An archive</p>
+            <h1>{{ page.title }}</h1>
+            {%- if content and content != "" -%}<p>{{ content | strip_html | strip }}</p>{%- endif -%}
+        </div>
+        <ul class="ak-writers">
+        {%- assign folk = site.authors | sort: "name" -%}
+        {%- for who in folk -%}
+          {%- assign n = 0 -%}
+          {%- for note in site.notes -%}
+            {%- if note.authors contains who.slug -%}{%- assign n = n | plus: 1 -%}{%- endif -%}
+          {%- endfor -%}
+          <li>
+            <a href="{{ site.baseurl }}{{ who.url }}">{{ who.name }}</a>
+            <span class="ak-writers-n">{{ n }}</span>
+          </li>
+        {%- endfor -%}
+        </ul>
+    </div>
+    {%- endif -%}
+
+    {%- comment -%} ---------- Author ---------- {%- endcomment -%}
+    {%- if page.content-type == "author" -%}
+    <div class="ak-index">
+        <div class="ak-intro">
+            <p class="ak-kicker">{% if page.person %}Writer{% else %}Byline{% endif %}</p>
+            <h1>{{ page.name }}</h1>
+            {%- if content and content != "" -%}<p class="ak-author-bio">{{ content | strip_html | strip }}</p>{%- endif -%}
+        </div>
+
+        {%- assign mine = "" | split: "" -%}
+        {%- for n in site.notes -%}
+          {%- if n.authors contains page.slug -%}{%- assign mine = mine | push: n -%}{%- endif -%}
+        {%- endfor -%}
+        {%- assign mine = mine | sort: "date" | reverse -%}
+
+        <p class="ak-kicker ak-author-count">{{ mine.size }} piece{% if mine.size != 1 %}s{% endif %} in the archive</p>
+
+        <div class="ak-grid">
+        {%- for item in mine -%}
+          <a class="ak-card" href="{{ site.baseurl }}{{ item.url }}">
+            {%- assign c = item["cover-art"] -%}
+            {%- if c and c != "" -%}<figure><img src="{{ site.baseurl }}{{ c }}" alt="" loading="lazy"></figure>{%- endif -%}
+            <h2>{{ item.title }}</h2>
+            {%- if item.subtitle and item.subtitle != "" -%}
+            <p class="ak-card-deck">{{ item.subtitle | strip_html | truncate: 150 }}</p>
+            {%- endif -%}
+            <p class="ak-card-by">{% if item.date %}{{ item.date | date: "%b %Y" }}{% endif %}</p>
+          </a>
+        {%- endfor -%}
+        </div>
     </div>
     {%- endif -%}
 

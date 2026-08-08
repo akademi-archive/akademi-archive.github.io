@@ -13,6 +13,7 @@ archived-snapshot: 20220527222933
 feed: show
 hero: /assets/img/akademi/0c725e_8d9b2d892b834757aa37b0c08dfd2c28_mv2.png
 hero-alt: "weight-of-corpses-web.png"
+authors: [rohitha-naraharisetty]
 ---
 In this theatre of grief, bodies writhe and flail, appearing more alive in their last moments than we, the living, seem now. A final tumult behind the ribs, a churn and collapse of organs, the crescendo of medical machinery announcing their surrender, the last gasp more insistent and desperate for life than any, every atom of the body holding the fort for survival before stopping. The body has no name now; it is retrieved from within and clipped onto toe and tarpaulin. All living signifiers – nails painted in pink, a shirt dotted with coffee stains, a saree with the bright flower patterns, a wedding ring, a mole on the cheek, a dimple in the chin – about to be eternally lost. This body is not alone, it is sent to the pyre workers in assembly-line formation, who receive the sheathed plastic casings and set the sky alight, its glow unholy from the industrial furnace blazing below. The burial grounds swell as fresh bodies are heaped wholesale into the earth. The leaders, exeunt.
 

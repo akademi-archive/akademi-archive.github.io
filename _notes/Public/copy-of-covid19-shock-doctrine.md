@@ -12,6 +12,7 @@ source-url: https://www.akademimag.com/copy-of-covid19-shock-doctrine
 archived-snapshot: 20220527220810
 feed: show
 hero: /assets/img/akademi/0c725e_38e6fdf32572444db5281ea6bbe92109_mv2.jpg
+authors: [charu-pragya]
 ---
 ## These are not Clashes,
 

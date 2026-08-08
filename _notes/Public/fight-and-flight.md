@@ -12,6 +12,7 @@ source-url: https://www.akademimag.com/fight-and-flight
 archived-snapshot: 20220527223713
 feed: show
 hero: /assets/img/akademi/0c725e_06bb1a93c2d54c7b805e1a542ddfd9e2_mv2.jpg
+authors: [mayukh-sen]
 ---
 The actress Rekha has long had one of Hindi cinema’s most famous outsider narratives. The daughter of South Indian film royalty, Rekha initially found herself at the receiving end of cruelty when she made the trek up North: she was too big, too dark, too other for Bollywood to embrace. So she proved her detractors wrong through hard work, subverting their narrow biases.
 

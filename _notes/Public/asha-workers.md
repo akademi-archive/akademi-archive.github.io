@@ -13,6 +13,7 @@ archived-snapshot: 20220527221359
 feed: show
 hero: /assets/img/akademi/0c725e_55006b7be5924edfa6b58358271e691b_mv2.jpg
 hero-alt: "asha-web-2.jpg"
+authors: [saumya-kalia]
 ---
 The old bus station in Radaur, a village east of Kurukshetra in Haryana, is a fixture of everyday life that finds its popularity subdued during the pandemic. But the heat wave of August carries potential to break its dormant impulse.
 

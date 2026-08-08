@@ -13,6 +13,7 @@ archived-snapshot: 20220122174245
 feed: show
 hero: /assets/img/akademi/0c725e_64c5753070284e75a44485f2ccd232f4_mv2.jpeg
 hero-alt: "pinjra.jpeg"
+authors: [avantika-tewari, devika-shekhawat]
 ---
 May 14, 2021
 

@@ -12,6 +12,7 @@ source-url: https://www.akademimag.com/violence-hindutva-masculinity
 archived-snapshot: 20220527220518
 feed: show
 hero: /assets/img/akademi/0c725e_30371bd2bd3443ff816965bf69910055_mv2.jpg
+authors: [charu-pragya]
 ---
 ## Violence and Hindutva's Norms of Masculinity
 

@@ -13,6 +13,7 @@ archived-snapshot: 20220527225606
 feed: show
 hero: /assets/img/akademi/0c725e_102a67e4f11e43dbab28c8adcf3b3509_mv2.png
 hero-alt: "hathras_web.png"
+authors: [jyotsna-siddharth]
 ---
 I want to talk about how I’m feeling. When we look at acts of caste-based violence, and when we hear the news, our immediate thought is to respond. There is a performance we feel like we have to do – to respond and share our views on what happened. In that performative process we forget that we are feeling things; that what has happened evokes certain emotions within us. It is important to talk about our feelings, our emotions, and what these incidents of unbearable violence are doing to our emotional and mental health.
 

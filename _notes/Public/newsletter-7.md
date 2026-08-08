@@ -12,6 +12,7 @@ source-url: https://www.akademimag.com/newsletter-7
 archived-snapshot: 20220527222400
 feed: show
 hero: /assets/img/akademi/0c725e_87555889aa11404fa8f23d46ae9111a2_mv2.jpg
+authors: [sukhnidh-kaur]
 ---
 I have a confession: I never signed up on social media to make the world a better place.
 

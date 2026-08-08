@@ -12,6 +12,7 @@ source-url: https://www.akademimag.com/india-covid-vaccine-drive
 archived-snapshot: 20220122171525
 feed: show
 hero: /assets/img/akademi/0c725e_d4a8d177fd4c4c108cdb30bb715e8123_mv2.jpg
+authors: [yanis-iqbal]
 ---
 May 03, 2020
 

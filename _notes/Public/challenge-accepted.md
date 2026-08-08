@@ -12,6 +12,7 @@ source-url: https://www.akademimag.com/challenge-accepted
 archived-snapshot: 20220527220304
 feed: show
 hero: /assets/img/akademi/0c725e_9cc0385c36bf4a6cac9fd1e422862ad4_mv2.jpeg
+authors: [nina-sangma]
 ---
 # but what about Privacy?
 

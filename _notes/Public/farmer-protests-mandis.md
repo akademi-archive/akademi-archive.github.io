@@ -12,6 +12,7 @@ source-url: https://www.akademimag.com/farmer-protests-mandis
 archived-snapshot: 20220527221826
 feed: show
 hero: /assets/img/akademi/0c725e_8a6064a90bfb4fbb89571c531b5b0b12_mv2.png
+authors: [shivani-gupta]
 ---
 ###### By passing the three new agriculture-related laws in September, the Centre has enacted its vision of an agricultural sector tending to the economic interests of large corporates, and the erosion of the mandi system, which is India’s primary agricultural marketing infrastructure.
 

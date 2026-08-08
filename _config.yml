@@ -69,6 +69,9 @@ collections:
     notes:
       output: true
       permalink: /note/:title
+    authors:
+      output: true
+      permalink: /author/:name
 
 markdown: kramdown
 
@@ -96,6 +99,12 @@ defaults:
     values:
       layout: Post
       content-type: notes
+  - scope:
+      path: ""
+      type: authors
+    values:
+      layout: Post
+      content-type: author
 
 
 # Exclude from processing.

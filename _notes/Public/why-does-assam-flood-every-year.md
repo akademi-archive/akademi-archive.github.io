@@ -13,6 +13,7 @@ archived-snapshot: 20220527211648
 feed: show
 hero: /assets/img/akademi/0c725e_bb9eed80a77c4a2f9f2dbde1dc68413e_mv2.jpg
 hero-alt: "assam-floods-cover-web.jpg"
+authors: [charu-pragya]
 ---
 Assam has been hit by floods that has displaced millions and claimed 71 lives (at the time of writing). It has also severely affected wildlife and loss of animals. All of this comes close on the heels of a succession of disasters that Assam is dealing with, like the COVID-19 pandemic, the Japanese encephalitis outbreak, water-borne diseases like cholera, Oil India’s Baghjan oil field which caught fire in early June (and it’s still burning), and the destruction caused by Cyclone Amphan.
 

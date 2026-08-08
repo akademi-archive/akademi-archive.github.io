@@ -13,6 +13,7 @@ archived-snapshot: 20220527215356
 feed: show
 hero: /assets/img/akademi/0c725e_8059670420424b93a0af0f5258f23014_mv2.jpg
 hero-alt: "1_edited.jpg"
+authors: [sukhnidh-kaur]
 ---
 We are the people..we are the nation- Our Emotion Dried up Our Words by Balaji Ponna
 

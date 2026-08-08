@@ -12,6 +12,7 @@ source-url: https://www.akademimag.com/copy-of-celebrating-mayday-1
 archived-snapshot: 20220527223438
 feed: show
 hero: /assets/img/akademi/0c725e_38e6fdf32572444db5281ea6bbe92109_mv2.jpg
+authors: [charu-pragya]
 ---
 May 1 commemorates working-class self-organisation and its rich history that stretches back over a century.
 

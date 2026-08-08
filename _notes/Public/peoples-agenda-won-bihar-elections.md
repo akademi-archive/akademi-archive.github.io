@@ -12,6 +12,7 @@ source-url: https://www.akademimag.com/peoples-agenda-won-bihar-elections
 archived-snapshot: 20201215003626
 feed: show
 hero: /assets/img/akademi/0c725e_dd5dc487ccf143d4b02544f3cd5c3dc1_mv2.jpg
+authors: [n-sai-balaji]
 ---
 On a dusty morning in late October, an elderly man stopped in his tracks while walking back home through the narrow and dug-up lanes of Paliganj, Bihar to greet Sandeep Saurav, a 33-year-old candidate from the Communist Party of India (Marxist–Leninist) (CPI ML). Saurav was contesting in the 2020 Bihar Legislative Assembly election from Paliganj, a rural seat about 60 km away from Patna, with Mahagathbandhan (MGB) – also known as the ‘Grand Alliance’ formed by the coalition of several state parties – in the late-2020 Bihar elections. The elderly man requested Saurav to wait and stepped inside his home. He returned with a broad smile and a 500-Rupee note to donate to Saurav’s campaign. It was a small but revealing moment that captured the mood of the Bihar election. The older generations were seeing the younger as their hope for the future.
 

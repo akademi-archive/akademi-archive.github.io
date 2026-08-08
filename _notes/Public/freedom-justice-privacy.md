@@ -12,6 +12,7 @@ source-url: https://www.akademimag.com/freedom-justice-privacy
 archived-snapshot: 20220122164838
 feed: show
 hero: /assets/img/akademi/0c725e_44c27b7cad414110874c01453c403833_mv2.jpg
+authors: [sreemoyee-mukherjee]
 ---
 # Freedom, Justice and Privacy: What Is At Stake Behind the Jargon Of Data Protection
 

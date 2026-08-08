@@ -12,6 +12,7 @@ source-url: https://www.akademimag.com/newsletter-4
 archived-snapshot: 20220527213403
 feed: show
 hero: /assets/img/akademi/0c725e_6c4996be0ed14a96b2786bc78499b37b_mv2.png
+authors: [sukhnidh-kaur]
 ---
 ## Digitally Silencing
 

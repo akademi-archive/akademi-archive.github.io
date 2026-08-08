@@ -12,6 +12,7 @@ source-url: https://www.akademimag.com/external-independence-ambedkar
 archived-snapshot: 20220527222636
 feed: show
 hero: /assets/img/akademi/0c725e_c063e7f6dfb94be98f475e2c6f6d9f52_mv2.jpg
+authors: [durgesh-solanki, rajyashri-goody]
 ---
 # ‘External independence is quite compatible with internal slavery’
 

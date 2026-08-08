@@ -12,6 +12,7 @@ source-url: https://www.akademimag.com/newsletter-1
 archived-snapshot: 20220527225832
 feed: show
 hero: /assets/img/akademi/0c725e_8a0efe63f3a442ab8b2f0e4471456c37_mv2.jpg
+authors: [sukhnidh-kaur]
 ---
 ## #BlackLivesMatter
 

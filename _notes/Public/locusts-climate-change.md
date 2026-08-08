@@ -13,6 +13,7 @@ archived-snapshot: 20220527212610
 feed: show
 hero: /assets/img/akademi/0c725e_2a09c6bf858e40d8aa66b1ee34f8952a_mv2.png
 hero-alt: "Desert-Locusts-web.png"
+authors: [charu-pragya]
 ---
 Some states in India, particularly Rajasthan, Gujarat, Madhya Pradesh, Uttar Pradesh and even parts of Maharashtra have witnessed huge locust swarms descend upon crops and vegetation. These locusts devour tonnes of food in a day, and this can be a serious problem for food security, especially for a country like India.
 

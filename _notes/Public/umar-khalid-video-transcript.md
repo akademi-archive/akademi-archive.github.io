@@ -13,6 +13,7 @@ archived-snapshot: 20220527222041
 feed: show
 hero: /assets/img/akademi/0c725e_92979459a3804bf7b7f0e6c91b1ac4e8_mv2.jpg
 hero-alt: "UmarKhalidTransaltion_coverweb.jpg"
+authors: [editorial-team]
 ---
 Editor's Note: Umar Khalid was arrested on 13th September. He was [arrested](https://www.thequint.com/news/india/umar-khalid-delhi-police-special-cell-fir-59-all-charge-sheets) after several hours of interrogation by the Special Cell of the Delhi Police for his alleged involvement in a conspiracy to incite the violence that broke out in Northeast Delhi in February 2020. Khalid has been charged under sections of the Unlawful Activities (Prevention) Act, 1967, 18 sections of the Indian Penal Code, including charges of murder, rioting and trespassing; two sections of the Prevention of Damage to Public Property Act, 1984; and two sections of the Arms Act, 1959. This is the English transcript of a video message recorded before his [arrest](https://www.instagram.com/p/CFMf8OygiUP/).
 

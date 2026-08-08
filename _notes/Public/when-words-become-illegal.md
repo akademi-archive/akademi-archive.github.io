@@ -13,6 +13,7 @@ archived-snapshot: 20220527223427
 feed: show
 hero: /assets/img/akademi/0c725e_2b5d35c3168245ea9397e3b38b0d64a2_mv2.jpg
 hero-alt: "srilanka_web.jpg"
+authors: [nethmi-rajawasam]
 ---
 The global spread of COVID-19 has seen nation-states stifling day-to-day life. Once again, Sri Lankans are under a state-imposed curfew, a year after the Easter Sunday attacks which the previous Sirisena government deliberately did not prevent.
 

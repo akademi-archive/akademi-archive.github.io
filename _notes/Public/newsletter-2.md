@@ -12,6 +12,7 @@ source-url: https://www.akademimag.com/newsletter-2
 archived-snapshot: 20220527223358
 feed: show
 hero: /assets/img/akademi/0c725e_8384227f1d60430ab38429f1c115e559_mv2.jpg
+authors: [sukhnidh-kaur]
 ---
 # Making Sense of the Yemen Crisis
 

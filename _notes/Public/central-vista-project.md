@@ -13,6 +13,7 @@ archived-snapshot: 20210225051509
 feed: show
 hero: /assets/img/akademi/0c725e_5c89fcb7df964d2c8fab54066b06ce38_mv2.jpg
 hero-alt: "central-vista-cover-web.jpg"
+authors: [nikita-biswal]
 ---
 February 12, 2021
 

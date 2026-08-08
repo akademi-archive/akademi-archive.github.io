@@ -12,6 +12,7 @@ source-url: https://www.akademimag.com/prison-between-mountains
 archived-snapshot: 20210115203245
 feed: show
 hero: /assets/img/akademi/0c725e_4aeee9a9e76549bbaf0c049fb90abee3_mv2.jpg
+authors: [masrat-zahra]
 ---
 Indian troops stand guard as a Kashmiri man walks by with his child. Srinagar. 1 January 2017
 

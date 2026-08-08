@@ -12,6 +12,7 @@ source-url: https://www.akademimag.com/biden-harris-are-not-the-winners
 archived-snapshot: 20220527221842
 feed: show
 hero: /assets/img/akademi/0c725e_f49dcb6a2a03449593ac4bfa3deac787_mv2.jpg
+authors: [tausif-noor, chip-sinton]
 ---
 # A Feeling in Philadelphia
 

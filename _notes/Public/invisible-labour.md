@@ -13,6 +13,7 @@ archived-snapshot: 20220527221753
 feed: show
 hero: /assets/img/akademi/0c725e_9b59af457b9c4d9b8e5bc40697fcde9a_mv2.jpg
 hero-alt: "May-Day_edited.jpg"
+authors: [haseeba-sayyed, preeksha-malhotra]
 ---
 The primary task of India’s Ministry of Labour and Employment is to “protect and safeguard the interests of workers” and “improve the working conditions and the quality of life of workers”. Is it, then, permissible to assert that this mission has been put on indefinite hold. In the wake of the lockdown, the manner of rolling out government policies became purposefully haphazard. Would it make sense to say that migrant workers who died precisely because of this manufactured confusion are not considered workers by the state? Does their safety not have to be ensured?
 

@@ -12,6 +12,7 @@ source-url: https://www.akademimag.com/inheriting-a-city
 archived-snapshot: 20220122170357
 feed: show
 hero: /assets/img/akademi/0c725e_2788cb0054e541f1ad848cdb49ac7be6_mv2.jpg
+authors: [sidra-fariah]
 ---
 Circa 1980 | The staff and students of Lushkary Preparatory School photographed at Jamia Millia Islamia’s central mosque. These are probably class I or II students, along with their two teachers.
 

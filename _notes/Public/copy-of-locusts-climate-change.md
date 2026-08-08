@@ -12,6 +12,7 @@ source-url: https://www.akademimag.com/copy-of-locusts-climate-change
 archived-snapshot: 20220527215507
 feed: show
 hero: /assets/img/akademi/0c725e_5af10bd3b80842d8a7be2c9baed9ee53_mv2.jpg
+authors: [charu-pragya]
 ---
 An organization like Kashmiri Youth Movement, which adulates Sarvarkar and is a vocal supporter of right-wing fascism, insistently trying to be seen as acting at the behest of LGBTQ+ interests might seem contradictory to those who of us who see queerness as being inherently oppositional to an oppressive nation-state.
 

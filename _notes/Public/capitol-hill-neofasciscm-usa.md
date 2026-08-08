@@ -12,6 +12,7 @@ source-url: https://www.akademimag.com/capitol-hill-neofasciscm-usa
 archived-snapshot: 20220122170938
 feed: show
 hero: /assets/img/akademi/0c725e_dc0d4d2cc8b64eae99c636377baff1a1_mv2.jpg
+authors: [yanis-iqbal]
 ---
 ###### Trump [may or may not](https://www.reuters.com/article/us-usa-trump-impeachment-process-explain/explainer-what-will-congress-do-now-that-trump-has-been-impeached-a-second-time-idUSKBN29I38E) be impeached but the deep-seated hatred which he has unleashed will continue to poison the American society.
 

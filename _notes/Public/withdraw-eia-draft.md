@@ -12,6 +12,7 @@ source-url: https://www.akademimag.com/withdraw-eia-draft
 archived-snapshot: 20220527220904
 feed: show
 hero: /assets/img/akademi/0c725e_07bbf684df8b4f6095c8def0b7b9c6ef_mv2.jpg
+authors: [charu-pragya]
 ---
 This draft sets to weaken our already dismal environmental laws and regulation.
 

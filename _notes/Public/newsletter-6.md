@@ -12,6 +12,7 @@ source-url: https://www.akademimag.com/newsletter-6
 archived-snapshot: 20220527224910
 feed: show
 hero: /assets/img/akademi/0c725e_eae15f0ba46a40c49d5a87aca0ad83a4_mv2.png
+authors: [sukhnidh-kaur]
 ---
 # Cancel Culture: Why Does It Not Work?
 

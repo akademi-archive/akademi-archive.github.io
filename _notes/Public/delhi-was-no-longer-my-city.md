@@ -12,6 +12,7 @@ source-url: https://www.akademimag.com/delhi-was-no-longer-my-city
 archived-snapshot: 20220122185004
 feed: show
 hero: /assets/img/akademi/0c725e_04be153af0174e63839e6ae9759de9e8_mv2.jpg
+authors: [abhimanyu-hazarika]
 ---
 # Felt Delhi Was No Longer My City
 

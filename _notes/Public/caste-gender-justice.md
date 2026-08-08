@@ -13,6 +13,7 @@ archived-snapshot: 20220527221502
 feed: show
 hero: /assets/img/akademi/0c725e_482b874239b04c309974ced5c8c615c6_mv2.jpg
 hero-alt: "justice_scales_web.jpg"
+authors: [santvana-kumar]
 ---
 In late September 2020, a nineteen-year-old Dalit girl was found fighting for her life in a field two hundred meters away from her home, in the small upper caste-dominated city of Hathras, Uttar Pradesh (UP). In what was a brutal incident of caste atrocity, four Rajput men raped and severely wounded the young girl. She succumbed to her injuries soon after. A nationwide anti-caste movement – challenging upper-caste privilege, and calling for the inclusion of Dalit voices in the mainstream – has quickly, and necessarily, grown and evolved ever since her passing.
 

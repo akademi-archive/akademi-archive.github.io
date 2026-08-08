@@ -12,6 +12,7 @@ source-url: https://www.akademimag.com/guruswamy-katju-rainbow-casteism
 archived-snapshot: 20210620064422
 feed: show
 hero: /assets/img/akademi/0c725e_9b629253b4f14268a4f26475ac49976a_mv2.jpg
+authors: [akhil-kang, vqueeram-aditya-sahai]
 ---
 # 
 
