@@ -1,0 +1,46 @@
+{
+  "$comment": [
+    "Dev server definitions for this project. Verified working 2026-08-09.",
+    "NOTE: there is no established .claude/launch.json schema in Claude Code;",
+    "this shape was chosen by hand. Adjust it to match whatever tool consumes it.",
+    "",
+    "Three fixes were required to make this build at all — see notes below.",
+    "Do NOT move this repo back into iCloud Drive (~/Library/Mobile Documents):",
+    "iCloud evicts file contents ('dataless' files) and Jekyll blocks forever in",
+    "read() on the first one it touches. That symptom looks exactly like a hang",
+    "with 0% CPU and no error message."
+  ],
+  "configurations": [
+    {
+      "name": "jekyll",
+      "default": true,
+      "description": "Jekyll Garden static site (jekyll-feed, jekyll-sitemap)",
+      "cwd": ".",
+      "command": "bundle exec jekyll serve --host 0.0.0.0 --port 4000",
+      "url": "http://localhost:4000/",
+      "lanUrl": "http://192.168.1.12:4000/",
+      "port": 4000,
+      "readyPattern": "Server address:",
+      "install": "bundle install",
+      "status": "working",
+      "buildTime": "0.375s",
+      "notes": [
+        "--host 0.0.0.0 is what makes it reachable from other devices on the LAN;",
+        "the default 127.0.0.1 binding is loopback-only.",
+        "Pages live under /note/<slug> and /post/<slug>, not at the root."
+      ]
+    },
+    {
+      "name": "jekyll-docker",
+      "default": false,
+      "description": "Same site via docker-compose (service: garden), pinned to ruby 3.1.1",
+      "cwd": ".",
+      "command": "docker compose up --build",
+      "url": "http://localhost:4000/",
+      "port": 4000,
+      "readyPattern": "Server address:",
+      "status": "unavailable",
+      "statusDetail": "docker is not installed on this machine."
+    }
+  ]
+}

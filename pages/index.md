@@ -1,10 +1,8 @@
 ---
 layout: Post
-permalink: /index
+permalink: /
 feedformat: card
-title: IDC Help
+title: Akademi Mag
 ---
 
-The answer to every "How do I do that again?" question you might have as a Microsoft IDC Employee.
-
-If you are new here, a good place to start is [[New Joinee Checklist]]
+Founded in 2019 in protest of the Citizenship Amendment Act, Akademi published art, criticism and reporting for two years before going offline. These pieces were recovered from the Internet Archive.

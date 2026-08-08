@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "c06c2c63b148fa58",
+    "type": "split",
+    "children": [
+      {
+        "id": "9edec16488d4724e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bf3f3a53c55a99b",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
+              },
+              "icon": "lucide-ghost",
+              "title": "mk-uri-view"
+            }
+          },
+          {
+            "id": "2dada4e277d024a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/Public/external-independence-ambedkar.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "external-independence-ambedkar"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c948401292b02605",
+    "type": "split",
+    "children": [
+      {
+        "id": "043b8ee58a37cf7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ffd475fc6320b94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "82089a2bcb6d8060",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b717852fa5fd3a4d",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "56a10923397141eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cbee6e6e2731165",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b88d0001edb6ef4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "56bf6a1942527cfd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2dada4e277d024a2",
+  "lastOpenFiles": [
+    "_site/assets/img/akademi/0c725e_dd5dc487ccf143d4b02544f3cd5c3dc1_mv2.jpg",
+    "assets/img/akademi/0c725e_dd5dc487ccf143d4b02544f3cd5c3dc1_mv2.jpg",
+    "_site/assets/img/akademi/0c725e_9b629253b4f14268a4f26475ac49976a_mv2.jpg",
+    "assets/img/akademi/0c725e_9b629253b4f14268a4f26475ac49976a_mv2.jpg",
+    "_site/assets/img/akademi/0c725e_475bcf3e0fac457087a5a6bde7cbc6cf_mv2.jpg",
+    "assets/img/akademi/0c725e_475bcf3e0fac457087a5a6bde7cbc6cf_mv2.jpg",
+    "_notes/Public/dalit-lives-matter.md",
+    "_notes/Public/capitol-hill-neofasciscm-usa.md",
+    "_notes/Public/ants-in-my-bloodstream.md",
+    "_notes/Public/freedom-justice-privacy.md",
+    "_notes/Public/law-casteist.md",
+    "_notes/Public/india-covid-19-drive.md",
+    "_notes/Public/bihar-elections.md",
+    "Tags",
+    "Untitled.canvas",
+    "_config.yml",
+    "Gemfile.lock",
+    "autocomplete.txt",
+    "pages/posts.md",
+    "pages/lists.md",
+    "pages/404.md",
+    "pages/index.md",
+    "pages",
+    "_notes/Public/Untitled.md",
+    "_notes/Public/Untitled 2.md",
+    "_notes/Public/Untitled 1.md",
+    "_notes/Public",
+    "_notes",
+    "docker-compose.yml",
+    "debug.yml",
+    "Gemfile",
+    "_posts/2020-03-01-how-to.md",
+    "_posts/2020-03-01-features.md",
+    "assets/img/sun.svg",
+    "assets/img/moon.svg",
+    "assets/img/gyan.png",
+    "assets/img/external-link.svg",
+    "assets/img/OGImg.png"
+  ]
+}

@@ -1,83 +1,107 @@
 {%- comment -%}
-*
-* MIT License
-* Copyright (c) 2020 Raghuveer S, Hiran Venugopalan
-*
-* Permission is hereby granted, free of charge, to any person obtaining a copy
-* of this software and associated documentation files (the "Software"), to deal
-* in the Software without restriction, including without limitation the rights
-* to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-* copies of the Software, and to permit persons to whom the Software is
-* furnished to do so, subject to the following conditions:
-*
-* The above copyright notice and this permission notice shall be included in all
-* copies or substantial portions of the Software.
-*
-* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-* IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-* FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-* AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-* LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-* OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-* SOFTWARE.
-*
-* File: Feed.html
-* Author Raghuveer S, Hiran Venugopalan
-*
-* This file contains the markup for the context menu thingy you see when you right
-* click on the post titles on the home page.
-*
+  Akademi Mag archive index.
+  Built on Jekyll Garden (MIT, © 2020 Raghuveer S, Hiran Venugopalan).
+
+  Hyphenated keys are read as item["filed-under"] / item["cover-art"] — Liquid
+  parses item.filed-under as subtraction and renders nothing.
 {%- endcomment -%}
 
-<!--Notes Feed-->
-<!--Static Page : pages/notes.md-->
+{%- if page.feedformat == "card" or page.permalink == "/" -%}
 
-{%- if page.feedformat == "card" -%}
-    {%- if site.preferences.search.enabled -%}
-        <!-- search bar -->
-        <div class="block">
-            <input class="input is-medium" type="text" placeholder="Search..." id="search-input" autocomplete="off">
-            <div id="search-results" class="search-results"></div>
-        </div>
-        <script type="text/javascript" src="{{ site.baseurl }}/assets/js/vendor/lunr.min.js"></script>
-        <script src="{{ site.baseurl }}/assets/js/Search.js"></script>
-    {%- endif -%}
-    <!-- feed with filter-->
-    <div class="related-wrapper">
-    {% assign note_items = site.notes | sort: "date" | reverse %}
-    {% for note_items in note_items %}
-        {%- if note_items.feed == "show" -%}
-                <div class="notelist-feed">
-                    <a href="{{ site.baseurl }}{{note_items.url}}">
-                        <p>{{ note_items.filed-under }}</p>
-                        <h2>{{ note_items.title }}</h2>
-                        <p class="excerpt">
-                            {{ note_items.content | strip_html | strip | remove: "[[" | remove: "]]" | remove: "-" | escape | truncate: 200 }}
-                        </p>
-                        <p>{{ note_items.author }}</p>
-                    </a>
-                </div>
+  {%- comment -%} Categories present in the archive, for the filter chips {%- endcomment -%}
+  {%- assign ak_cats = "" -%}
+  {%- for item in site.notes -%}
+    {%- assign c = item["filed-under"] -%}
+    {%- if c and c != "" -%}{%- assign ak_cats = ak_cats | append: c | append: "|" -%}{%- endif -%}
+  {%- endfor -%}
+  {%- assign ak_cat_list = ak_cats | split: "|" | uniq | sort -%}
+
+  {%- if site.preferences.search.enabled -%}
+  <div class="ak-search">
+    <div class="ak-search-row">
+      <svg class="ak-search-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+        <circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"/>
+        <path d="M16.5 16.5 21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+      </svg>
+      <input type="search" placeholder="Search titles, writers, subjects…" id="search-input"
+             autocomplete="off" aria-label="Search the archive">
+      <span class="ak-slash" aria-hidden="true">/</span>
+      <button type="button" class="ak-x" aria-label="Clear search" hidden>
+        <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+      </button>
+    </div>
+
+    <div class="ak-filters">
+      {%- if ak_cat_list.size > 0 -%}
+      <div class="ak-chips" role="group" aria-label="Filter by section">
+        {%- for c in ak_cat_list -%}
+        <button type="button" class="ak-chip" data-cat="{{ c }}" aria-pressed="false">{{ c }}</button>
+        {%- endfor -%}
+      </div>
+      {%- endif -%}
+      <div class="ak-search-meta">
+        <span class="ak-count"></span>
+        <button type="button" class="ak-clear" hidden>Reset</button>
+      </div>
+    </div>
+  </div>
+  {%- endif -%}
+
+  <p class="ak-empty" hidden>Nothing matches that. Try a writer's name, or a subject like <em>caste</em>, <em>labour</em>, <em>Kashmir</em>.</p>
+
+  <div class="ak-grid">
+  {%- assign ak_items = site.notes | sort: "date" | reverse -%}
+  {%- assign ak_lead_taken = false -%}
+  {%- for item in ak_items -%}
+    {%- if item.feed == "show" and item.title and item.title != "" -%}
+      {%- assign ak_cover = item["cover-art"] -%}
+      {%- assign ak_cat = item["filed-under"] -%}
+      {%- comment -%} lead the grid with the newest piece that actually has artwork {%- endcomment -%}
+      {%- assign ak_is_lead = false -%}
+      {%- if ak_lead_taken == false and ak_cover and ak_cover != "" -%}
+        {%- assign ak_is_lead = true -%}
+        {%- assign ak_lead_taken = true -%}
+      {%- endif -%}
+      {%- capture ak_hay -%}{{ item.title }} {{ item.subtitle }} {{ item.author }} {{ ak_cat }} {{ item["author-bio"] }} {{ item.content | strip_html | truncate: 1200 }}{%- endcapture -%}
+      <a class="ak-card{% if ak_is_lead %} is-lead{% endif %}" href="{{ site.baseurl }}{{ item.url }}"
+         data-category="{{ ak_cat }}" data-search="{{ ak_hay | strip_newlines | escape_once }}">
+        {%- if ak_cover and ak_cover != "" -%}
+        <figure><img src="{{ site.baseurl }}{{ ak_cover }}" alt="" loading="lazy"></figure>
         {%- endif -%}
-    {%- endfor -%}
-    </div>
-{%-endif -%}
+        {%- if ak_cat and ak_cat != "" -%}
+        <p class="ak-kicker"><span class="ak-cat">{{ ak_cat }}</span></p>
+        {%- endif -%}
+        <h2>{{ item.title }}</h2>
+        {%- if item.subtitle and item.subtitle != "" -%}
+        <p class="ak-card-deck">{{ item.subtitle | strip_html | truncate: 150 }}</p>
+        {%- endif -%}
+        <p class="ak-card-by">
+          {%- if item.author and item.author != "" -%}{{ item.author }}{%- endif -%}
+          {%- if item.date -%} · {{ item.date | date: "%b %Y" }}{%- endif -%}
+        </p>
+      </a>
+    {%- endif -%}
+  {%- endfor -%}
+  </div>
 
-<!--Dynamic List Feed-->
-<!--Static Page : pages/lists.md-->
+  {%- if site.preferences.search.enabled -%}
+  <script src="{{ site.baseurl }}/assets/js/akademi-search.js" defer></script>
+  {%- endif -%}
 
+{%- endif -%}
+
+{%- comment -%} Dynamic list feed — pages/lists.md {%- endcomment -%}
 {%- if page.feedformat == "row" -%}
-<div class="block">
-    {% assign note_items = site.notes | sort: "date" | reverse %}
-    {% for note_items in note_items %}
-        {%- if note_items.format == "list" -%}
-            <div class="list-feed">
-                    <a href="{{ site.baseurl }}{{note_items.url}}" style="text-decoration: none;display: flex;justify-content: space-between;flex-direction: row;width: 100%;">
-                        <div class="writinglist-title">
-                            {{note_items.title }}
-                        </div>
-                    </a>
-            </div>
-        {%-endif -%}
-    {%- endfor -%}
+<div class="ak-index">
+  {%- assign ak_items = site.notes | sort: "date" | reverse -%}
+  {%- for item in ak_items -%}
+    {%- if item.format == "list" -%}
+    <div class="list-feed">
+      <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
     </div>
-{%-endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+</div>
+{%- endif -%}

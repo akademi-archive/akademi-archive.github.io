@@ -1,178 +1,131 @@
 ---
 ---
+<!--
+  Akademi Mag archive — layout reconstructed to match the original akademimag.com.
+  Built on Jekyll Garden (MIT, © 2020 Raghuveer S, Hiran Venugopalan, Asim K T).
 
-<!-------------------------------------------------------------------------------------
-*
-* MIT License
-* Copyright (c) 2020 Raghuveer S, Hiran Venugopalan, Asim K T
-*
-* Permission is hereby granted, free of charge, to any person obtaining a copy
-* of this software and associated documentation files (the "Software"), to deal
-* in the Software without restriction, including without limitation the rights
-* to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-* copies of the Software, and to permit persons to whom the Software is
-* furnished to do so, subject to the following conditions:
-*
-* The above copyright notice and this permission notice shall be included in all
-* copies or substantial portions of the Software.
-*
-* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-* IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-* FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-* AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-* LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-* OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-* SOFTWARE.
-*
------------------------------------------------------------------------------------->
-
+  Hyphenated front-matter keys MUST be read as page["filed-under"]; Liquid parses
+  page.filed-under as a subtraction and silently renders nothing.
+-->
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
+    <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
-    <meta content="IDC Help" property="og:site_name" />
-    <meta
-        content="The answer to every 'Wait, how do I do that again?' question"
-        property="og:description">
-    <meta content="{{ site.url }}/about/" property="article:author">
-    <meta property="og:image" content="../assets/img/OGImg.png">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,400;0,700;1,300&display=swap" rel="stylesheet">
-    {%- if page.title -%}
-    <meta content="{{ page.title }}" property="og:title">
-    <meta content="article" property="og:type">
-    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
-    {%- else -%}
-    <meta content="website" property="og:type">
-    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
-    {%- endif -%}
 
-    <title>{{page.title}} - {{site.heading}}</title>
-    <link rel="canonical" href="{{site.url}}{{page.url}}" />
-    <link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/img/profile.png">
+    {%- assign ak_title = page.title | default: site.heading -%}
+    {%- assign ak_desc = page.subtitle | default: site.content -%}
+    {%- assign ak_cover = page["cover-art"] -%}
+
+    <title>{% if page.content-type == "notes" %}{{ page.title }} — Akademi Mag{% else %}Akademi Mag — Archive{% endif %}</title>
+    <meta name="description" content="{{ ak_desc | strip_html | truncate: 200 }}">
+
+    <meta content="Akademi Mag" property="og:site_name" />
+    <meta content="{{ ak_title }}" property="og:title">
+    <meta content="{{ ak_desc | strip_html | truncate: 200 }}" property="og:description">
+    <meta content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" property="og:url">
+    <meta content="{% if page.content-type == 'notes' %}article{% else %}website{% endif %}" property="og:type">
+    {%- if ak_cover %}<meta content="{{ site.url }}{{ ak_cover }}" property="og:image">{%- endif %}
+    {%- if page.author %}<meta content="{{ page.author }}" name="author">{%- endif %}
+
+    <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
     <link rel="icon" href="{{ site.baseurl }}/assets/img/favicon.png" type="image/png" sizes="16x16" />
-    <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet" media="all" class="default" />
-    <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet" media="all" class="default" />
-    <link href="{{ site.baseurl }}/assets/css/Util.css" rel="stylesheet" media="all" class="default" />
-    <link href="{{ site.baseurl }}/assets/css/vendor/Katex.css" rel="stylesheet" media="all" class="default" />
-
-    <!--[if IE]>
-        <link href="/assets/css/ie-target.css" rel="stylesheet" type="text/css"/>
-    <![endif]-->
-    <!--<link href="/assets/css/prism.css" rel="stylesheet" />-->
     <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap">
+
+    <link href="{{ site.baseurl }}/assets/css/akademi.css" rel="stylesheet" media="all" />
 </head>
 
-<body>
-    <main>
-    {%- include Nav.html -%}
-    <section class="section">
-        <div class="columns is-centered">
+<body class="ak">
+<main>
 
-            <!-- Homepage Layout-->
-            {%- if page.permalink == "/" -%}
-            <div class="column is-8-widescreen is-8-desktop is-8-tablet is-12-mobile">
-                    {%- if site.preferences.homepage.enabled -%}
-                            <!--- Show Homepage -->
-                            {%- include Homepage.html -%}
-                    {%- else -%}
-                            <!--- Show Feed Part -->
-                <div class="column is-6-widescreen is-8-desktop is-8-tablet is-12-mobile">
-                            
-                            <div class="jumbo">{{page.title}}</div>
-                            {%- include FeedContent.html -%}
-                            {%- include Feed.html -%}
-                </div>
-                    {%- endif -%}
-            </div>
+    <header class="ak-masthead">
+        <a class="ak-wordmark" href="{{ site.baseurl }}/">Akademi</a>
+        <nav>
+            <a href="{{ site.baseurl }}/">Archive</a>
+            <a href="{{ site.baseurl }}/about">About</a>
+        </nav>
+    </header>
+
+    {%- comment -%} ---------- Article ---------- {%- endcomment -%}
+    {%- if page.content-type == "notes" -%}
+    <article class="ak-article">
+        <header>
+            {%- assign ak_cat = page["filed-under"] -%}
+            {%- if ak_cat and ak_cat != "" -%}
+            <p class="ak-kicker">Filed under: <span class="ak-cat">{{ ak_cat }}</span></p>
             {%- endif -%}
 
-            <!--- Notes Feed Layout-->
-            {%- if page.feedformat -%}
-            <div class="column is-6-widescreen is-8-desktop is-8-tablet is-12-mobile">
-                
-                    <div class="jumbo">{{page.title}}</div>
-                    {%- include Content.html -%}
-                    {%- include Feed.html -%}
+            <h1>{{ page.title }}</h1>
+
+            {%- if page.subtitle and page.subtitle != "" -%}
+            <p class="ak-deck">{{ page.subtitle }}</p>
             {%- endif -%}
 
-            <!--- Notes Layout-->
-            {%- if page.content-type == "notes" -%}
-            <div class="column is-5-widescreen is-6-desktop is-8-tablet is-12-mobile">
-                    <div class="note-page-section">
-                        <div>
-                            <a href="https://microwiki.github.io">
-                                    <h5 class="meta-title">← BACK</h5>
-                            </a>
-                        </div>
-                    <!--- List type Note Layout-->
-                    {%- if page.format == "list" -%}
-                    <style>
-                        li {border-bottom: 1px solid var(--color-border-light); list-style: none; padding: 0.4rem 0 0.4rem 0;}
-                        .content ul { padding-left: 0px;}
-                        h3 {padding-top: 1rem; padding-bottom: 0rem;}
-                    </style>                    
-                    {%- endif -%}
-                    <h1>{{page.title}}</h1>
-                    <p class="timestamp">Last updated by <img src="/assets/img/gyan.png"> Gyan on {{page.date modified | date: "%-d %B %Y" }}</>
-                    {%- include Content.html -%}
-                    {%- include Backlinks.html -%}
-                    </div>
-            </div>
-            {%- endif -%}
+            <p class="ak-byline">
+                {%- if page.author and page.author != "" -%}
+                Words by <span class="name">{{ page.author }}</span>
+                {%- endif -%}
+                {%- if page.date -%}
+                <span class="sep">·</span>{{ page.date | date: "%-d %B %Y" }}
+                {%- if page["date-approx"] %} <em>(approx.)</em>{%- endif -%}
+                {%- endif -%}
+                {%- assign ak_artist = page["cover-artist"] -%}
+                {%- if ak_artist and ak_artist != "" -%}
+                <br>Artwork by <span class="name">{{ ak_artist }}</span>
+                {%- endif -%}
+            </p>
+        </header>
 
-
-            <!--- Post Feed Layout-->
-            {%- if page.permalink == "/posts" -%}
-            <div class="column is-6-widescreen is-8-desktop is-8-tablet is-12-mobile">
-                
-                <div class="jumbo">{{page.title}}</div>
-                    {%- include Content.html -%}
-                    {% for post in site.posts %}
-                        <div class="list-feed"> 
-                        <a href="{{ site.baseurl }}{{post.url}}" style="text-decoration: none;display: flex;justify-content: space-between;flex-direction: row;width: 100%;">
-                            <div class="writinglist-title">{{post.title }}</div>
-                        </a>
-                        </div>
-                    {%- endfor -%}
-            </div> 
-
-            <ul>
-                
-            {%- endif -%}
-
-             <!--- Post Layout-->
-             {%- if page.content-type == "post"  -%}
-             <div class="column is-5-widescreen is-6-desktop is-8-tablet is-12-mobile">
-                     <div class="note-page-section">
-                         <div>
-                             {%- if site.preferences.homepage.enabled -%}
-                             <a onclick="window.history.back();">
-                             {%- else -%}
-                             <a onclick="window.location.assign('/');">
-                             {%- endif -%}
-                                     <h5 class="meta-title">← BACK</h5>
-                             </a>
-                         </div>
-                     <h1>{{page.title}}</h1>
-                     {%- include Content.html -%}
-                     {%- include Backlinks.html -%}
-                     </div>
-             </div>
-             {%- endif -%}
-
-            <!--- Static Page Layout-->
-            {%- if page.content-type == "static" -%}
-            <div class="column is-5-widescreen is-6-desktop is-8-tablet is-12-mobile">
-                        <div class="jumbo">{{page.title}}</div>                        
-                        {%- include Content.html -%}
-                </div>
-            {%- endif -%}
+        <div class="ak-body">
+            {{ content }}
         </div>
-    </section>   
-    {%- include Footer.html -%}             
+
+        {%- assign ak_bio = page["author-bio"] -%}
+        {%- if ak_bio and ak_bio != "" -%}
+        <p class="ak-bio">{{ ak_bio }}</p>
+        {%- endif -%}
+
+        {%- if page["source-url"] -%}
+        <p class="ak-source">
+            Recovered from the Internet Archive.
+            Originally published at <a href="{{ page['source-url'] }}">{{ page["source-url"] | remove: "https://www." }}</a>{% if page["archived-snapshot"] %},
+            <a href="https://web.archive.org/web/{{ page['archived-snapshot'] }}/{{ page['source-url'] }}">snapshot {{ page["archived-snapshot"] | slice: 0,4 }}</a>{% endif %}.
+        </p>
+        {%- endif -%}
+    </article>
+    {%- endif -%}
+
+    {%- comment -%} ---------- Index ---------- {%- endcomment -%}
+    {%- if page.feedformat == "card" or page.permalink == "/" -%}
+    <div class="ak-index">
+        <div class="ak-intro">
+            <p class="ak-kicker">An archive</p>
+            <h1>{{ site.heading }}</h1>
+            {%- if content and content != "" -%}<p>{{ content | strip_html | strip }}</p>{%- endif -%}
+        </div>
+        {%- include Feed.html -%}
+    </div>
+    {%- endif -%}
+
+    {%- comment -%} ---------- Everything else ---------- {%- endcomment -%}
+    {%- if page.content-type == "static" or page.content-type == "post" -%}
+    <article class="ak-article">
+        <header><h1>{{ page.title }}</h1></header>
+        <div class="ak-body">{{ content }}</div>
+    </article>
+    {%- endif -%}
+
+    <footer class="ak-foot">
+        <p>Akademi Mag · an independent publication on art, culture, progressive politics and theory</p>
+        <p>Archived from akademimag.com · text and artwork remain the property of their authors and artists</p>
+    </footer>
+
 </main>
 </body>
 </html>
