@@ -11,9 +11,9 @@ date-approx: false
 source-url: https://www.akademimag.com/sex-work-calcutta
 archived-snapshot: 20220527215241
 feed: show
+hero: /assets/img/akademi/0c725e_6e51c90dcd014a7396e76b180d4e9688_mv2.png
+hero-alt: "Untitled-Artwork.png"
 ---
-![Untitled-Artwork.png](/assets/img/akademi/0c725e_6e51c90dcd014a7396e76b180d4e9688_mv2.png)
-
 Recently, researchers affiliated with Yale and Harvard University published a paper that recommended continuing the closure of red-light areas in India [which had come to a halt](https://scroll.in/article/959429/coronavirus-red-light-areas-across-the-country-are-reeling-under-the-strict-lockdown) when the national lockdown was instituted on March 25th. The paper’s authors claimed that this extension would curb the transmission of COVID-19 in the country. National media outlets such as [The Times of India](https://timesofindia.indiatimes.com/india/india-can-avoid-72-of-projected-covid-cases-by-closing-red-light-areas-report/articleshow/75772687.cms), [The Indian Express](https://indianexpress.com/article/cities/pune/extending-red-light-area-closure-could-delay-peak-of-epidemic-by-37-days-study-6482585/) and [The Hindu Business Line](https://www.thehindubusinessline.com/news/india-could-avoid-72-of-covid-19-cases-by-closing-red-light-areas-post-lockdown-study/article31605913.ece), among others, sensationalised the report while soliciting no input from the women it was prescribing measures for. Soon after, sex worker collectives, along with several activists and public health professionals, admonished the research – asserting that it was detached from the reality of labouring women and would be immensely harmful for their well-being if enforced through policy. The National Network of Sex Workers (NNSW) [published an open letter](https://medium.com/@nnswdelhi/sexworkersadviseharvardyale-827861f37968) addressed to the Yale-Harvard report’s authors, which was signed by over 2000 sex workers from across India, demanding that the paper be retracted.
 
 ​

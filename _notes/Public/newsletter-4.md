@@ -2,7 +2,7 @@
 filed-under: 
 title: "Love, Pavemented"
 subtitle: "This edition of Love, Pavemented looks at how citizens of Kashmir are being digitally silenced."
-author: 
+author: "Sukhnidh Kaur"
 author-bio: "SUKHNIDH KAUR writes and researches about human behaviour, politics, and the internet. You can find her at @pavemented on Instagram. Love, Pavemented Newsletter offers insights into contemporary politics and philosophy, global news headlines, gems from the internet, curated messages from inspiring figures exclusively for readers, and more, twice a month. Click here to subscribe."
 cover-art: /assets/img/akademi/0c725e_6c4996be0ed14a96b2786bc78499b37b_mv2.png
 cover-artist: "Darash Dawood Low-speed internet was restored after 6 months of communication blockade, but the Government imposed a ban on social media."
@@ -11,14 +11,13 @@ date-approx: true
 source-url: https://www.akademimag.com/newsletter-4
 archived-snapshot: 20220527213403
 feed: show
+hero: /assets/img/akademi/0c725e_6c4996be0ed14a96b2786bc78499b37b_mv2.png
 ---
 ## Digitally Silencing
 
 ## Kashmir
 
 The fourth edition of Love, Pavemented.
-
-SUKHNIDH KAUR
 
 Have you been seeing headlines and social media posts about internet shutdowns in Jammu and Kashmir? I have, too. It’s been a year and four days since Article 370 was abrogated, and a year and five since the longest shutdown so far was imposed in the region. Given how critical the functioning of the internet is to my own life, I’ve been preoccupied with the question: In how many ways can an internet shutdown impact a community? In an attempt to answer it, the fourth edition of Akademi Mag’s Love, Pavemented newsletter looks at digital silencing as a practice of oppression in Kashmir, and its far-reaching consequences on people’s lives.
 

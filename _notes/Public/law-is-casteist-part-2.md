@@ -11,12 +11,9 @@ date-approx: false
 source-url: https://www.akademimag.com/law-is-casteist-part-2
 archived-snapshot: 20201203023132
 feed: show
+hero: /assets/img/akademi/0c725e_475bcf3e0fac457087a5a6bde7cbc6cf_mv2.jpg
 ---
-# The Law Is
-
 # Casteist Part II
-
-###### Lawyers Disha Wadekar and Nikita Sonavane give deep and searing insight into their personal and intellectual understanding of the inherent casteist bias of the Indian legal system, based on their many years of work and engagement as lawyers and researchers.
 
 This is the second part of a translated and edited transcript of a conversation first had on ‘Lights, Camera, Azadi’ a podcast hosted and produced by Vandit Jain. The podcast, which aired on 19 September 2020, may be found [here](https://lightscameraazadi.in/podcast/26-the-caste-of-law-with-nikita-and-disha/). Read the first part [here](./the-law-is-casteist).
 

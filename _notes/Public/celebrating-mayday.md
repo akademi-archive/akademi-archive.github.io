@@ -11,5 +11,6 @@ date-approx: true
 source-url: https://www.akademimag.com/celebrating-mayday
 archived-snapshot: 20201023044339
 feed: show
+hero: /assets/img/akademi/0c725e_47af245053e54dd083871c06e0c5f9f8_mv2.jpg
 ---
 

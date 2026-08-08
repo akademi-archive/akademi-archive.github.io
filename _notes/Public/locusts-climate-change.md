@@ -11,9 +11,9 @@ date-approx: true
 source-url: https://www.akademimag.com/locusts-climate-change
 archived-snapshot: 20220527212610
 feed: show
+hero: /assets/img/akademi/0c725e_2a09c6bf858e40d8aa66b1ee34f8952a_mv2.png
+hero-alt: "Desert-Locusts-web.png"
 ---
-![Desert-Locusts-web.png](/assets/img/akademi/0c725e_2a09c6bf858e40d8aa66b1ee34f8952a_mv2.png)
-
 Some states in India, particularly Rajasthan, Gujarat, Madhya Pradesh, Uttar Pradesh and even parts of Maharashtra have witnessed huge locust swarms descend upon crops and vegetation. These locusts devour tonnes of food in a day, and this can be a serious problem for food security, especially for a country like India.
 
 Locusts are grasshoppers, except they differ in their migration abilities over large distances and other  habits. Causes like food scarcity can sometimes drive these insects, otherwise solitary creatures, to congregate and hunt for food.   [As their population increases, they become “gregarious”— the tendency to form groups to hunt and eat.](https://theprint.in/science/why-the-worst-locust-attack-in-decades-has-invaded-north-india/431257/) Locusts exhibit this behaviour when they touch each other on their hind legs, secreting a large amount of serotonin, which is also found in humans.

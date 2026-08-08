@@ -54,6 +54,11 @@
 
     {%- comment -%} ---------- Article ---------- {%- endcomment -%}
     {%- if page.content-type == "notes" -%}
+    {%- if page.hero and page.hero != "" -%}
+    <figure class="ak-hero">
+        <img src="{{ site.baseurl }}{{ page.hero }}" alt="{{ page['hero-alt'] }}">
+    </figure>
+    {%- endif -%}
     <article class="ak-article">
         <header>
             {%- assign ak_cat = page["filed-under"] -%}

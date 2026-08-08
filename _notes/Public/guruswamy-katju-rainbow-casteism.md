@@ -11,14 +11,11 @@ date-approx: false
 source-url: https://www.akademimag.com/guruswamy-katju-rainbow-casteism
 archived-snapshot: 20210620064422
 feed: show
+hero: /assets/img/akademi/0c725e_9b629253b4f14268a4f26475ac49976a_mv2.jpg
 ---
-# Guruswamy and Katju, Your rainbow doesn't hide your casteism.
-
 # 
 
 # The Story of a Movement: the Law, the Leaders, the Lies
-
-###### There are a lot of structural reasons why Guruswamy and Katju get to present themselves as leaders of this movement, and in doing so, tap into exactly the structural violence through which Section 377 has come to be represented.
 
 ###### ​
 

@@ -11,10 +11,10 @@ date-approx: true
 source-url: https://www.akademimag.com/sari-and-caste
 archived-snapshot: 20220527220040
 feed: show
+hero: /assets/img/akademi/0c725e_ca7fcac1b5734b4390c2be8c4193287a_mv2.jpg
+hero-alt: "Sari-Caste-web.jpg"
 ---
 September 28, 2020
-
-![Sari-Caste-web.jpg](/assets/img/akademi/0c725e_ca7fcac1b5734b4390c2be8c4193287a_mv2.jpg)
 
 Illustration and Photo Research by [Aarman Roy](https://www.instagram.com/aarmanroy/) and [Utkarsh](https://www.instagram.com/sick_flux/)
 

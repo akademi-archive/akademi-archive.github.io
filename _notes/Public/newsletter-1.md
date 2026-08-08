@@ -2,7 +2,7 @@
 filed-under: 
 title: "Love, Pavemented, Edition 1"
 subtitle: 
-author: 
+author: "Sukhnidh Kaur"
 author-bio: 
 cover-art: /assets/img/akademi/0c725e_8a0efe63f3a442ab8b2f0e4471456c37_mv2.jpg
 cover-artist: 
@@ -11,12 +11,11 @@ date-approx: true
 source-url: https://www.akademimag.com/newsletter-1
 archived-snapshot: 20220527225832
 feed: show
+hero: /assets/img/akademi/0c725e_8a0efe63f3a442ab8b2f0e4471456c37_mv2.jpg
 ---
 ## #BlackLivesMatter
 
 The first edition of Love, Pavemented.
-
-SUKHNIDH KAUR
 
 It’s been half a year since we found ourselves flung into the most extraordinary of times. While we grapple with a new world order, I want to thank you for allowing me the opportunity to connect with you beyond social media. I’m so stoked to be able to share with you - for the first time, today, and twice a month hereon - important, exciting, and meaningful ideas that matter. I hope we both learn new ways of looking at the world around us through this process.
 

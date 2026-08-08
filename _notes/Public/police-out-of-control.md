@@ -11,9 +11,9 @@ date-approx: true
 source-url: https://www.akademimag.com/police-out-of-control
 archived-snapshot: 20220527205806
 feed: show
+hero: /assets/img/akademi/0c725e_2e07d57f1c174d0e918a150fd9b74f87_mv2.jpg
+hero-alt: "police-PNG-Border_edited.jpg"
 ---
-![police-PNG-Border_edited.jpg](/assets/img/akademi/0c725e_2e07d57f1c174d0e918a150fd9b74f87_mv2.jpg)
-
 This past month, the countries in the West reckoned with a fact they’d known for far too long: the police are out of control, and they have always been. Indians too chimed in to condemn the state of policing in the USA and elsewhere, all this while they continued to ignore the ways in which police brutality has become normalized in their own country. The police in India kill and torture people from disadvantaged and marginalized communities, especially religious minorities, Dalits and Adivasis with near total impunity.
 
 ​

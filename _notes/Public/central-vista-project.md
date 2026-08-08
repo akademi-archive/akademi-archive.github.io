@@ -11,10 +11,10 @@ date-approx: true
 source-url: https://www.akademimag.com/central-vista-project
 archived-snapshot: 20210225051509
 feed: show
+hero: /assets/img/akademi/0c725e_5c89fcb7df964d2c8fab54066b06ce38_mv2.jpg
+hero-alt: "central-vista-cover-web.jpg"
 ---
 February 12, 2021
-
-![central-vista-cover-web.jpg](/assets/img/akademi/0c725e_5c89fcb7df964d2c8fab54066b06ce38_mv2.jpg)
 
 As lockdown restrictions were eased, cyclists and runners reclaimed the Central Vista in Delhi. Bookended by the iconic India Gate on one end and the Rashtrapati Bhawan on the other, the Central Vista has long stood as the model of a vibrant public space. Sprawling lawns that flank the stretch of Rajpath still see picnicking families, even though the competition for space is tighter. On an ordinary day, you could spot children in the green-brown water of the canals that run along the road. Crowds of tourists spill from India Gate as pedestrians enjoying ice-cream spread across the junction. Jamun sellers, who depend on the tree-lined avenue for business, dot the stretch. When the crowd clears, you can see the road that rises to Raisina Hill, where broadcasting vans queue to report parliamentary debate by the minute. These engagements bear witness to the Central Vista’s lived character as an integral part of the city’s everyday pulse. In September 2019,  the Central government announced its plan to redevelop the Central Vista. The Central Vista Redevelopment Project envisages revamping the 3-kilometre heritage stretch in the heart of the capital, severely altering how the public will engage with this space. The reform threatens to potentially convert the Central Vista into a gated complex of bureaucratic activity. This grandiose development project aims to add a brand new Parliament and Central Secretariat, along with new residences for the Prime Minister and Vice President, are tactical attempts to redefine the very architecture of India’s capital.
 

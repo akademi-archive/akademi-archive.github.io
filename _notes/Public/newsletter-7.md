@@ -11,9 +11,8 @@ date-approx: false
 source-url: https://www.akademimag.com/newsletter-7
 archived-snapshot: 20220527222400
 feed: show
+hero: /assets/img/akademi/0c725e_87555889aa11404fa8f23d46ae9111a2_mv2.jpg
 ---
-###### [New media and social change have a complicated relationship. The seventh edition of Love, Pavemented tries to understand it and answer the question: does social media activism work?](https://www.akademimag.com/fight-and-flight)
-
 I have a confession: I never signed up on social media to make the world a better place.
 
 As a young and careless teen, I spent my time on the internet torrenting obscure music, inhaling celebrity gossip, mentally spiralling on Tumblr, and posting ‘aesthetic’ VSCO-ed pictures on Instagram. Around 2016, the social media-social justice wave came and swept me along with it. When it did, I thought – ‘Yes, these are important and urgent issues, and so I should devote my attention to them’.

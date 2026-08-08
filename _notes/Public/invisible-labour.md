@@ -11,9 +11,9 @@ date-approx: true
 source-url: https://www.akademimag.com/invisible-labour
 archived-snapshot: 20220527221753
 feed: show
+hero: /assets/img/akademi/0c725e_9b59af457b9c4d9b8e5bc40697fcde9a_mv2.jpg
+hero-alt: "May-Day_edited.jpg"
 ---
-![May-Day_edited.jpg](/assets/img/akademi/0c725e_9b59af457b9c4d9b8e5bc40697fcde9a_mv2.jpg)
-
 The primary task of India’s Ministry of Labour and Employment is to “protect and safeguard the interests of workers” and “improve the working conditions and the quality of life of workers”. Is it, then, permissible to assert that this mission has been put on indefinite hold. In the wake of the lockdown, the manner of rolling out government policies became purposefully haphazard. Would it make sense to say that migrant workers who died precisely because of this manufactured confusion are not considered workers by the state? Does their safety not have to be ensured?
 
 These apparently unmentionable workers resurfaced in their negated existence when time came for the government to claim that they had no data on the number of deaths that occurred because of the lockdowns. Taking the Indian government’s own think tank, NITI Aayog’s, number about [85% of the total workforce](https://www.businesstoday.in/sectors/jobs/labour-law-reforms-no-one-knows-actual-size-india-informal-workforce-not-even-govt/story/364361.html) in the country is employed through the unorganized sector. Why then has the government abdicated its responsibility of protecting the interests of over 35 crore workers?

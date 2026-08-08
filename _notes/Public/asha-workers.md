@@ -11,9 +11,9 @@ date-approx: false
 source-url: https://www.akademimag.com/asha-workers
 archived-snapshot: 20220527221359
 feed: show
+hero: /assets/img/akademi/0c725e_55006b7be5924edfa6b58358271e691b_mv2.jpg
+hero-alt: "asha-web-2.jpg"
 ---
-![asha-web-2.jpg](/assets/img/akademi/0c725e_55006b7be5924edfa6b58358271e691b_mv2.jpg)
-
 The old bus station in Radaur, a village east of Kurukshetra in Haryana, is a fixture of everyday life that finds its popularity subdued during the pandemic. But the heat wave of August carries potential to break its dormant impulse.
 
 In the shadow of a banyan tree, sit 20 women in hues of pink and red. Some wear surgical masks, others have their faces draped with dupattas. The ground behind the station continues to hold this spectre for some days to come.

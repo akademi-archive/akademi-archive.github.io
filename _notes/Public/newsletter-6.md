@@ -11,10 +11,9 @@ date-approx: false
 source-url: https://www.akademimag.com/newsletter-6
 archived-snapshot: 20220527224910
 feed: show
+hero: /assets/img/akademi/0c725e_eae15f0ba46a40c49d5a87aca0ad83a4_mv2.png
 ---
 # Cancel Culture: Why Does It Not Work?
-
-###### [Cancelling is about reclaiming power and fixing broken systems. The thing about such systems is that there are no perfect solutions - that is a function of their brokenness.](https://www.akademimag.com/fight-and-flight)
 
 I like to think that the parallel universe we call the internet is not just a reflection of our physical realities, but an extension rife with experimentation and performance. The sixth edition of Akademi Mag's Love, Pavemented tries to explore one of the many elements that make up this space by exploring cancel culture - a practice that is unique because it perpetuates the internet's algorithm-driven black and white rhetoric, yet catalyses much-needed conversations about nuance.
 

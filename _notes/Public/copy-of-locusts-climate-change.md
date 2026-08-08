@@ -2,7 +2,7 @@
 filed-under: 
 title: "Homonationalism and Pinkwashing"
 subtitle: 
-author: 
+author: "Charu Pragya"
 author-bio: 
 cover-art: /assets/img/akademi/0c725e_5af10bd3b80842d8a7be2c9baed9ee53_mv2.jpg
 cover-artist: 
@@ -11,12 +11,9 @@ date-approx: true
 source-url: https://www.akademimag.com/copy-of-locusts-climate-change
 archived-snapshot: 20220527215507
 feed: show
+hero: /assets/img/akademi/0c725e_5af10bd3b80842d8a7be2c9baed9ee53_mv2.jpg
 ---
-# Understanding Homonationalism and Pinkwashing
-
 An organization like Kashmiri Youth Movement, which adulates Sarvarkar and is a vocal supporter of right-wing fascism, insistently trying to be seen as acting at the behest of LGBTQ+ interests might seem contradictory to those who of us who see queerness as being inherently oppositional to an oppressive nation-state.
-
-CHARU PRAGYA
 
 Last week an Instagram account called Pride Kashmir called for a pride parade from Lal Chowk in Srinagar to mark the commencement of International Pride Month. Pride Kashmir was started by an organization called the Kashmiri Youth Movement, which claims to be a ‘non-political’ student group but leaves no chance to denounce Kashmir’s right to self-determination or to celebrate the central government’s clampdown on the dignity and freedom of the people of Kashmir.
 

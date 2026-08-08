@@ -11,9 +11,9 @@ date-approx: false
 source-url: https://www.akademimag.com/bans-boycotts-and-borders
 archived-snapshot: 20220527215927
 feed: show
+hero: /assets/img/akademi/0c725e_9c31ed10b818474a803ea26a894a2863_mv2.png
+hero-alt: "chinappban_web.png"
 ---
-![chinappban_web.png](/assets/img/akademi/0c725e_9c31ed10b818474a803ea26a894a2863_mv2.png)
-
 India launched a ‘[digital strike](https://indianexpress.com/article/india/banning-apps-digital-strike-to-protect-data-ravi-shankar-prasad-6487710/)’ against China on 29 June 2020. It firewalled and banned 59 Chinese apps including TikTok, which has over 200 million Indian users, and WeChat, the most accessible and integrated communication channel between Indians and the Chinese. ‘If somebody casts an evil eye on India, we will give a befitting reply,’ said Union Minister Ravi Shankar Prasad announcing the move. While the state offered claims of ‘national security’, the app ban may be read as a retaliatory attempt to restrain commercial and social ties with China after the 15 June border clash along the Line of Actual Control (LAC) in the Ladakh region, which resulted in the first casualties along this tentative border with China since 1975.
 
 India has since announced two more rounds of app bans, including an order on 2 September to block 118 China-linked apps including the extremely popular battle-royale game PUBG, and a widely used Mandarin learning app. This announcement came quickly in response to another skirmish on the border in Ladakh, on 31 August. The official Chinese statement – issued by Ji Rong, spokesperson of the Chinese Embassy in India – is [damning](https://thewire.in/external-affairs/china-india-ladakh-pangong-tso-tensions-war): ‘India’s move has grossly violated China’s territorial sovereignty, seriously violated relevant agreements, protocols [. . .] and severely damaged peace and tranquillity along the China-India border areas.’ While China is yet to respond with any economic sanctions, tensions are escalating, and it is fair to assume that these are impending.

@@ -11,9 +11,9 @@ date-approx: false
 source-url: https://www.akademimag.com/caste-gender-justice
 archived-snapshot: 20220527221502
 feed: show
+hero: /assets/img/akademi/0c725e_482b874239b04c309974ced5c8c615c6_mv2.jpg
+hero-alt: "justice_scales_web.jpg"
 ---
-![justice_scales_web.jpg](/assets/img/akademi/0c725e_482b874239b04c309974ced5c8c615c6_mv2.jpg)
-
 In late September 2020, a nineteen-year-old Dalit girl was found fighting for her life in a field two hundred meters away from her home, in the small upper caste-dominated city of Hathras, Uttar Pradesh (UP). In what was a brutal incident of caste atrocity, four Rajput men raped and severely wounded the young girl. She succumbed to her injuries soon after. A nationwide anti-caste movement – challenging upper-caste privilege, and calling for the inclusion of Dalit voices in the mainstream – has quickly, and necessarily, grown and evolved ever since her passing.
 
 Intentionally cruel incidents such as the Hathras rape case are an everyday, lived reality for Dalit women across India, who are subject to incalculable episodes of atrocities by upper-caste folks. A large number of such crimes go unnoticed and unreported. Sexual violence, sexual abuse and rape have been normalised, and occur with impunity due to the undeterred dominance of feudal and patriarchal power. The incident in Hathras is a direct result of this socially-sanctioned casteist and patriarchal hierarchy.

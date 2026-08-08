@@ -11,9 +11,9 @@ date-approx: false
 source-url: https://www.akademimag.com/newsletter-8
 archived-snapshot: 20220527215356
 feed: show
+hero: /assets/img/akademi/0c725e_8059670420424b93a0af0f5258f23014_mv2.jpg
+hero-alt: "1_edited.jpg"
 ---
-![1_edited.jpg](/assets/img/akademi/0c725e_8059670420424b93a0af0f5258f23014_mv2.jpg)
-
 We are the people..we are the nation- Our Emotion Dried up Our Words by Balaji Ponna
 
 India is experiencing profound grief in light of a crumbling economy, political suppression, and the widening of existing inequalities. One finds, yet again, that at the root of this violence is the pervasiveness of casteism. Today, as the country protests the rape and murder of Dalit women and the systems that have led to it, it is important to reflect on the rotten spirit of casteism that infects us.

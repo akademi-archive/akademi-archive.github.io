@@ -2,7 +2,7 @@
 filed-under: 
 title: "Love, Pavemented Edition 3"
 subtitle: 
-author: 
+author: "Sukhnidh Kaur"
 author-bio: 
 cover-art: /assets/img/akademi/0c725e_a1d3385b61ba4f18b6aceb5b9730dca7_mv2.jpg
 cover-artist: 
@@ -11,12 +11,11 @@ date-approx: true
 source-url: https://www.akademimag.com/newsletter-3
 archived-snapshot: 20220527220446
 feed: show
+hero: /assets/img/akademi/0c725e_a1d3385b61ba4f18b6aceb5b9730dca7_mv2.jpg
 ---
 ## "You're Fake News"
 
 The third edition of Love, Pavemented.
-
-SUKHNIDH KAUR
 
 If knowledge is power, ignorance is an effective tool of disempowerment. With fake news polluting an already burgeoning infodemic, the truth is becoming increasingly obscured. In turn, our perception of reality is, too. The third edition of Akademi Mag’s Love, Pavemented newsletter explores the practice of disinformation in an attempt to understand how it shapes our experience of the world, as part of our small contribution to the fight against it.
 

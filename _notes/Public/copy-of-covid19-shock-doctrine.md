@@ -2,23 +2,22 @@
 filed-under: 
 title: "Not Clashes Pogrom"
 subtitle: 
-author: 
+author: "Charu Pragya"
 author-bio: 
-cover-art: /assets/img/akademi/0c725e_38e6fdf32572444db5281ea6bbe92109%7Emv2.jpg
+cover-art: /assets/img/akademi/0c725e_38e6fdf32572444db5281ea6bbe92109_mv2.jpg
 cover-artist: 
 date: 2020-10-31
 date-approx: true
 source-url: https://www.akademimag.com/copy-of-covid19-shock-doctrine
 archived-snapshot: 20220527220810
 feed: show
+hero: /assets/img/akademi/0c725e_38e6fdf32572444db5281ea6bbe92109_mv2.jpg
 ---
 ## These are not Clashes,
 
 ## This is a Pogrom
 
 The killings that took place in Delhi these last couple of days have to be understood within abroader political climate that normalizes the systemic othering of muslims.
-
-CHARU PRAGYA
 
 This was not a clash. 
 

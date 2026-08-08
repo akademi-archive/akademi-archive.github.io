@@ -11,9 +11,8 @@ date-approx: false
 source-url: https://www.akademimag.com/what-we-get-wrong-about-drug-abuse
 archived-snapshot: 20220527223235
 feed: show
+hero: /assets/img/akademi/0c725e_f61d7a2b623c48cabccf0a5c8613f729_mv2.png
 ---
-###### [Drugs and addiction are fundamentally intertwined, and yet the word ‘addiction’ does not appear in the Narcotic Drugs and Psychotropic Substances Act (1985) of India.](https://www.akademimag.com/fight-and-flight)
-
 Update (September 8, 2020): Rhea Chakraborty has been [arrested](https://scroll.in/latest/972555/sushant-singh-death-process-to-arrest-rhea-chakraborty-underway-says-ncb) by the Narcotics Control Bureau, Mumbai, under various charges outlined by the Narcotics Drugs and Psychotropic Substances (NDPS) Act. She is the eighth person to be arrested in relation to the investigation into the death of actor Sushant Singh Rajput. Chakraborty will be first taken for medical testing before being produced in front of a magistrate via video-conferencing for remand later today. Her arrest comes after three consecutive days of interrogation by the NCB, over her relations with the late Rajput and his alleged drug use. During the interrogation, Chakraborty admitted to procuring drugs for Sushant Singh Rajput and consuming them at times. Satish Maneshinde, Chakraborty’s lawyer called her arrest a ‘travesty of justice.’ ‘Three central agencies hounding a single woman just because she was in love with a drug addict who was suffering from mental health issues for several years and committed suicide due to consumption of illegally administered medicines, drugs,” Maneshinde said in a statement.
 
 ​

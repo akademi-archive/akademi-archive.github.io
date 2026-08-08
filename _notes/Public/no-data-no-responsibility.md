@@ -2,7 +2,7 @@
 filed-under: Politics
 title: "No Data, No Deaths, No Responsibility"
 subtitle: "A short comic on how the Indian Government has denied keeping any records of deaths of migrant workers, healthcare professionals and job losses from MSME companies."
-author: 
+author: "OurDirtyUnderwear"
 author-bio: 
 cover-art: /assets/img/akademi/0c725e_777743dbbda44e46b6ad480d5a887a07_mv2.jpg
 cover-artist: "OurDirtyUnderwear"
@@ -11,11 +11,9 @@ date-approx: false
 source-url: https://www.akademimag.com/no-data-no-responsibility
 archived-snapshot: 20210115195355
 feed: show
+hero: /assets/img/akademi/0c725e_777743dbbda44e46b6ad480d5a887a07_mv2.jpg
+hero-alt: "AKADEMI_SMOL_web.jpg"
 ---
-Illustrated and Written by OurDirtyUnderwear
-
-![AKADEMI_SMOL_web.jpg](/assets/img/akademi/0c725e_777743dbbda44e46b6ad480d5a887a07_mv2.jpg)
-
 ![](/assets/img/akademi/0c725e_cd3abcb3c0e64111b4a6952a5535874e_mv2.jpg)
 
 ![](/assets/img/akademi/0c725e_5f7b31404a214d34b0e0d13acefc6c50_mv2.jpg)

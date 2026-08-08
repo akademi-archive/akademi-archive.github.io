@@ -1,7 +1,7 @@
 ---
 filed-under: 
 title: "Love, Pavemented Edition 2"
-subtitle: 
+subtitle: "It’s a powerful thing to acknowledge the suffering of one, let alone millions. But for the Republic of Yemen, a desert country perched at the end of the Arabian peninsula, there have been few witnesses.](https://www.akademimag.com/fight-and-flight)"
 author: "Sukhnidh Kaur"
 author-bio: "SUKHNIDH KAUR writes and researches about human behaviour, politics, and the internet. You can find her at @pavemented on Instagram. Love, Pavemented Newsletter offers insights into contemporary politics and philosophy, global news headlines, gems from the internet, curated messages from inspiring figures exclusively for readers, and more, twice a month. Click here to subscribe."
 cover-art: /assets/img/akademi/0c725e_8384227f1d60430ab38429f1c115e559_mv2.jpg
@@ -11,10 +11,9 @@ date-approx: false
 source-url: https://www.akademimag.com/newsletter-2
 archived-snapshot: 20220527223358
 feed: show
+hero: /assets/img/akademi/0c725e_8384227f1d60430ab38429f1c115e559_mv2.jpg
 ---
 # Making Sense of the Yemen Crisis
-
-###### [It’s a powerful thing to acknowledge the suffering of one, let alone millions. But for the Republic of Yemen, a desert country perched at the end of the Arabian peninsula, there have been few witnesses.](https://www.akademimag.com/fight-and-flight)
 
 Elie Weisel, a Holocaust survivor and Nobel laureate once said: “For the dead and the living, we must bear witness.”
 

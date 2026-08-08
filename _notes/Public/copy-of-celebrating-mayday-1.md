@@ -1,22 +1,19 @@
 ---
 filed-under: 
-title: "-----------------"
+title: "Celebrating Mayday"
 subtitle: 
-author: 
+author: "Charu Pragya"
 author-bio: 
-cover-art: /assets/img/akademi/0c725e_38e6fdf32572444db5281ea6bbe92109%7Emv2.jpg
+cover-art: /assets/img/akademi/0c725e_38e6fdf32572444db5281ea6bbe92109_mv2.jpg
 cover-artist: 
 date: 2020-10-31
 date-approx: true
 source-url: https://www.akademimag.com/copy-of-celebrating-mayday-1
 archived-snapshot: 20220527223438
 feed: show
+hero: /assets/img/akademi/0c725e_38e6fdf32572444db5281ea6bbe92109_mv2.jpg
 ---
-## Celebrating Mayday
-
 May 1 commemorates working-class self-organisation and its rich history that stretches back over a century.
-
-CHARU PRAGYA
 
 May 1st marks the International Workers’ Day, popularly known as May-Day or Labour Day, a day that commemorates working-class self-organisation and its rich history that stretches back over a century.
 

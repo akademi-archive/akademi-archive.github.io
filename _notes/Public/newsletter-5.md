@@ -2,7 +2,7 @@
 filed-under: 
 title: "Love, Pavemented"
 subtitle: "This edition of the newsletter touches upon the Beirut blast and the humanitarian crisin in Lebanon."
-author: 
+author: "Sukhnidh Kaur"
 author-bio: "SUKHNIDH KAUR writes and researches about human behaviour, politics, and the internet. You can find her at @pavemented on Instagram. Love, Pavemented Newsletter offers insights into contemporary politics and philosophy, global news headlines, gems from the internet, curated messages from inspiring figures exclusively for readers, and more, twice a month. Click here to subscribe."
 cover-art: /assets/img/akademi/0c725e_bd1ff17a2ef14dd0ae2c1a6407ce599a_mv2.png
 cover-artist: "Manu Ferneini . Summertime in a crisis-hit country, June 2020. Manu is a Lebanese documentary photographer living in Beirut and her photographs revolve around notions of social identity. The open-edition print is available to ship worldwide as part of For The Love of Beirut Print Sale with all proceeds going to the Lebanese Red Cross. Click here to purchase. Courtesy of the Artist."
@@ -11,14 +11,13 @@ date-approx: true
 source-url: https://www.akademimag.com/newsletter-5
 archived-snapshot: 20220527210207
 feed: show
+hero: /assets/img/akademi/0c725e_bd1ff17a2ef14dd0ae2c1a6407ce599a_mv2.png
 ---
 ## Beirut Blasts and
 
 ## Lebanese Dissent
 
 The fifth edition of Love, Pavemented.
-
-SUKHNIDH KAUR
 
 Nineteen days ago, videos from Beirut, the capital city of Lebanon east of the Mediterranean Sea,  flooded the internet. A blast of cataclysmic proportions had shaken the region, and alarm bells were ringing through the world. Though the headlines have passed, this explosion has had far-reaching consequences - because it is not a singular event, but a direct result of a negligent government in an unstable region. The fifth edition of the Akademi Mag’s Love, Pavemented Newsletter explores the history preceding this shocking tragedy, and the Lebanese people’s demands.
 

@@ -11,9 +11,8 @@ date-approx: false
 source-url: https://www.akademimag.com/farmer-protests-mandis
 archived-snapshot: 20220527221826
 feed: show
+hero: /assets/img/akademi/0c725e_8a6064a90bfb4fbb89571c531b5b0b12_mv2.png
 ---
-# The Farmer Protests and the Importance of Mandis
-
 ###### By passing the three new agriculture-related laws in September, the Centre has enacted its vision of an agricultural sector tending to the economic interests of large corporates, and the erosion of the mandi system, which is India’s primary agricultural marketing infrastructure.
 
 Mandis are in mainstream focus.  Not for their crumbling infrastructure this time, but for their centrality as trading centres for agrarian India. By passing the three new agriculture-related laws in September –  the Farmers Produce Trade and Commerce (Promotion & Facilitation) Act, the Farmers (Empowerment   & Protection) Assurance and Farm Service Act and the Essential Commodities (Amendment) Act  – the Centre has enacted its vision of an agricultural sector tending to the economic interests of large corporates, and the erosion of the mandi system, which is India’s primary agricultural marketing infrastructure. While the pushback against the Farm Bills 2020, which aim to overhaul the way the farmers engaged in trade by paving the way for greater privatization and the dismantlement of public-sector protections, is nationwide, the farmers of North Indian states have been especially active in protesting this move due to their long-term familiarity and comfort with the mandi system. Thousands of farmers from Punjab and Haryana are at the Delhi-border protesting the three new farm laws passed by the central government in September. In the context of the farmers’ protests, I look at some of the functions of one of the most important Agricultural Produce Marketing Committee (APMC) mandis in India – the Azadpur mandi in Delhi – and use it to illustrate a proactive mandi’s role in providing accessible marketing infrastructure for agricultural produce trade.

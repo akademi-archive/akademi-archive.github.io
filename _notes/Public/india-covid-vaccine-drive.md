@@ -11,10 +11,9 @@ date-approx: true
 source-url: https://www.akademimag.com/india-covid-vaccine-drive
 archived-snapshot: 20220122171525
 feed: show
+hero: /assets/img/akademi/0c725e_d4a8d177fd4c4c108cdb30bb715e8123_mv2.jpg
 ---
 May 03, 2020
-
-![](/assets/img/akademi/0c725e_d4a8d177fd4c4c108cdb30bb715e8123_mv2.jpg)
 
 Indian states and health experts [warn](https://www.livemint.com/news/india/states-now-wary-of-vaccine-shortage-11619463000804.html) that shortages of COVID-19 jabs might disrupt plans to immunise all adults and prolong India’s severe second wave. A prolonged crisis might, in turn, enable dangerous [variants](https://www.nytimes.com/live/2021/05/01/world/covid-vaccine-coronavirus-cases) to evolve, spread and possibly evade vaccines.
 

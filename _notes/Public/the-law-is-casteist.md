@@ -11,10 +11,10 @@ date-approx: true
 source-url: https://www.akademimag.com/the-law-is-casteist
 archived-snapshot: 20220122171024
 feed: show
+hero: /assets/img/akademi/0c725e_eba1dc50ba1f47b7adc43fbc3436d445_mv2.png
+hero-alt: "Visualising-Caste-web.png"
 ---
 Novermber 6, 2020
-
-![Visualising-Caste-web.png](/assets/img/akademi/0c725e_eba1dc50ba1f47b7adc43fbc3436d445_mv2.png)
 
 This is the first part of an translated and edited transcript of a conversation first had on ‘Lights, Camera, Azadi’ a podcast hosted and produced by Vandit Jain. The podcast, which aired on 19 September 2020, may be found [here](https://lightscameraazadi.in/podcast/26-the-caste-of-law-with-nikita-and-disha/).
 

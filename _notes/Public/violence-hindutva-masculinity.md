@@ -2,7 +2,7 @@
 filed-under: 
 title: "Violence and Norms of Masculinity"
 subtitle: 
-author: 
+author: "Charu Pragya"
 author-bio: 
 cover-art: /assets/img/akademi/0c725e_30371bd2bd3443ff816965bf69910055_mv2.jpg
 cover-artist: 
@@ -11,12 +11,11 @@ date-approx: true
 source-url: https://www.akademimag.com/violence-hindutva-masculinity
 archived-snapshot: 20220527220518
 feed: show
+hero: /assets/img/akademi/0c725e_30371bd2bd3443ff816965bf69910055_mv2.jpg
 ---
 ## Violence and Hindutva's Norms of Masculinity
 
 It has become more critical than ever to unearth the basis of this relationship between Hindu-fundamentalism, violence, and masculinity.
-
-CHARU PRAGYA
 
 It has become more critical than ever to unearth the basis of this relationship between Hindu-fundamentalism, violence, and masculinity, especially in light of the Jamia shooting. Through the social-media posts of the Hindu-fundamentalist gunman (who is possibly a minor) it became evident that, according to him, the act of terrorism he carried out was heroic and sacrificial. His profile picture showed him kissing a sword and another of him hugging a rifle.
 

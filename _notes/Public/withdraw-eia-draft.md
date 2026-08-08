@@ -2,7 +2,7 @@
 filed-under: 
 title: "Withdraw EIA"
 subtitle: 
-author: 
+author: "Charu Pragya"
 author-bio: 
 cover-art: /assets/img/akademi/0c725e_07bbf684df8b4f6095c8def0b7b9c6ef_mv2.jpg
 cover-artist: 
@@ -11,12 +11,9 @@ date-approx: true
 source-url: https://www.akademimag.com/withdraw-eia-draft
 archived-snapshot: 20220527220904
 feed: show
+hero: /assets/img/akademi/0c725e_07bbf684df8b4f6095c8def0b7b9c6ef_mv2.jpg
 ---
-## Withdraw EIA Draft
-
 This draft sets to weaken our already dismal environmental laws and regulation.
-
-CHARU PRAGYA
 
 The draft Environment Impact Assessment (EIA) aims to dilute provisions that ensure transparency and safeguards for the environment while approving new projects The Ministry of Environment, Forests and  
 Climate Change (MoEFCC) has greenlighted more than forty projects without the mandatory environmental clearances. There are provisions in this draft which also reduce the participation of the public in feedback process for environmental plans.This draft sets to weaken our already dismal environmental laws and regulation.

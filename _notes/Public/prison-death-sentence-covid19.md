@@ -11,10 +11,10 @@ date-approx: true
 source-url: https://www.akademimag.com/prison-death-sentence-covid19
 archived-snapshot: 20220122174245
 feed: show
+hero: /assets/img/akademi/0c725e_64c5753070284e75a44485f2ccd232f4_mv2.jpeg
+hero-alt: "pinjra.jpeg"
 ---
 May 14, 2021
-
-![pinjra.jpeg](/assets/img/akademi/0c725e_64c5753070284e75a44485f2ccd232f4_mv2.jpeg)
 
 A deadly Covid-19 second wave has engulfed India, and the failure of the country’s healthcare infrastructure has lead to the mounting death toll. The official number of deaths caused by COVID-19 in India till May 14, 2021, crossed 2.58 lakhs, but according to a report released by the University of Washington, the actual number of Covid-19 deaths is at least three times the official figure.
 

@@ -2,7 +2,7 @@
 filed-under: 
 title: "'Felt Like Delhi Was No Longer My City'"
 subtitle: "The aftermath of the riots coverage caused journalist Ayush Tiwari immense trauma. He felt ‘uncomfortable and uneasy’ returning to the affected localities to investigate the discrepancies in the Delhi Police’s chargesheet regarding the February 2020 events."
-author: "ABHIMANYU HAZARIKA"
+author: "Abhimanyu Hazarika"
 author-bio: "ABHIMANYU HAZARIKA is a journalist (now with The Frontline Magazine), who believes that the world can be made a better place if we assume nothing and question everything, especially those who govern us. He is a political science major from the Symbiosis School for Liberal Arts (2019), and of the 2020 batch of the Asian College of Journalism."
 cover-art: /assets/img/akademi/0c725e_04be153af0174e63839e6ae9759de9e8_mv2.jpg
 cover-artist: 
@@ -11,6 +11,7 @@ date-approx: false
 source-url: https://www.akademimag.com/delhi-was-no-longer-my-city
 archived-snapshot: 20220122185004
 feed: show
+hero: /assets/img/akademi/0c725e_04be153af0174e63839e6ae9759de9e8_mv2.jpg
 ---
 # Felt Delhi Was No Longer My City
 

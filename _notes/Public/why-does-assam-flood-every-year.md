@@ -11,9 +11,9 @@ date-approx: true
 source-url: https://www.akademimag.com/why-does-assam-flood-every-year
 archived-snapshot: 20220527211648
 feed: show
+hero: /assets/img/akademi/0c725e_bb9eed80a77c4a2f9f2dbde1dc68413e_mv2.jpg
+hero-alt: "assam-floods-cover-web.jpg"
 ---
-![assam-floods-cover-web.jpg](/assets/img/akademi/0c725e_bb9eed80a77c4a2f9f2dbde1dc68413e_mv2.jpg)
-
 Assam has been hit by floods that has displaced millions and claimed 71 lives (at the time of writing). It has also severely affected wildlife and loss of animals. All of this comes close on the heels of a succession of disasters that Assam is dealing with, like the COVID-19 pandemic, the Japanese encephalitis outbreak, water-borne diseases like cholera, Oil India’s Baghjan oil field which caught fire in early June (and it’s still burning), and the destruction caused by Cyclone Amphan.
 
 Over 20,000 people have taken shelter in hundreds of relief camps across the state, according to the Assam State Disaster Management Authority (ASDMA). Around 90% of Kaziranga National Park and Pobitora Wildlife Sanctuary (It has India’s highest concentration of rhinoceroses) is reportedly submerged.

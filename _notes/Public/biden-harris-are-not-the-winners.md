@@ -11,12 +11,9 @@ date-approx: true
 source-url: https://www.akademimag.com/biden-harris-are-not-the-winners
 archived-snapshot: 20220527221842
 feed: show
+hero: /assets/img/akademi/0c725e_f49dcb6a2a03449593ac4bfa3deac787_mv2.jpg
 ---
-# Biden-Harris are not the Real Winners:
-
 # A Feeling in Philadelphia
-
-###### The historic contours of the 2020 US Presidential election are not something we take lightly. Yet, it is our experience as residents of this historic American city, Philadelphia – one whose history is defined by violence and injustice against its inhabitants and those outside its borders – that local, grassroots efforts and sustained organising are the only path toward an equitable future in this country.
 
 November 08, 2020
 

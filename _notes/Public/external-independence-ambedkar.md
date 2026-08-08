@@ -2,7 +2,7 @@
 filed-under: 
 title: "External Independence, Internal Slavery"
 subtitle: "As Ambedkar had predicted, Indian ‘independence’ did not change a great deal for many Dalit communities.As Ambedkar had predicted, Indian ‘independence’ did not change a great deal for many Dalit communities."
-author: 
+author: "Durgesh Solanki and Rajyashri Goody"
 author-bio: "DURGESH SOLANKI is a Sociology PhD student at Johns Hopkins University. He studies caste, race, disease and empire. RAJYASHRI GOODY is an artist based in Pune. Through ceramics, writing and photography, she attempts to decode and make visible instances of everyday power and resistance within Dalit communities."
 cover-art: /assets/img/akademi/0c725e_c063e7f6dfb94be98f475e2c6f6d9f52_mv2.jpg
 cover-artist: 
@@ -11,16 +11,10 @@ date-approx: false
 source-url: https://www.akademimag.com/external-independence-ambedkar
 archived-snapshot: 20220527222636
 feed: show
+hero: /assets/img/akademi/0c725e_c063e7f6dfb94be98f475e2c6f6d9f52_mv2.jpg
 ---
 # ‘External independence is quite compatible with internal slavery’
 
-###### [As Ambedkar had predicted, Indian ‘independence’ did not change a great deal for many Dalit communities.](https://www.akademimag.com/fight-and-flight)
-
-Compiled and Written by 
-
-DURGESH SOLANKI and RAJYASHRI GOODY
-
-COMPILED and WRITTEN by   
 DURGESH SOLANKI and
 
 RAJYASHRI GOODY

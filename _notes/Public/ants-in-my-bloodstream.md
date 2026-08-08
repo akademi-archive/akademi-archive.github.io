@@ -2,7 +2,7 @@
 filed-under: 
 title: "Ants in My Bloodstream"
 subtitle: "Kashmir is not just densely occupied. It is thoroughly occupied. It is intricately occupied. It is omnipresently occupied. It is repeatedly occupied."
-author: 
+author: "Tabish Rafiq Mir"
 author-bio: "TABISH RAFIQ MIR writes for multiple publications, among them Free Press Kashmir, Kashmir Life, Rising Kashmir, and several others. His blog entitled 'Paradigm Shift' can be accessed here ."
 cover-art: /assets/img/akademi/0c725e_bd9bd6ce184b4f629ad37f2261016b39_mv2.jpg
 cover-artist: 
@@ -11,11 +11,9 @@ date-approx: true
 source-url: https://www.akademimag.com/ants-in-my-bloodstream
 archived-snapshot: 20220527222412
 feed: show
+hero: /assets/img/akademi/0c725e_bd9bd6ce184b4f629ad37f2261016b39_mv2.jpg
+hero-alt: "ants-web.jpg"
 ---
-TABISH RAFIQ MIR
-
-![ants-web.jpg](/assets/img/akademi/0c725e_bd9bd6ce184b4f629ad37f2261016b39_mv2.jpg)
-
 Year 2025, dreaming state
 
 ​

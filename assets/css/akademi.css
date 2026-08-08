@@ -79,6 +79,20 @@ body.ak {
 
 /* ---------- article ---------- */
 
+/* Full-bleed lead image, sitting above the title block. The masthead's
+   bottom margin is cancelled so the artwork meets the rule directly. */
+.ak-hero {
+  margin: -3.5rem 0 2.75rem;
+  width: 100%;
+}
+.ak-hero img {
+  display: block;
+  width: 100%;
+  max-height: 78vh;
+  object-fit: cover;
+  object-position: center;
+}
+
 .ak-article {
   max-width: var(--ak-measure);
   margin: 0 auto;

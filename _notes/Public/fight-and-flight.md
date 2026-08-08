@@ -2,7 +2,7 @@
 filed-under: 
 title: "Fight and Flight by Mayukh Sen"
 subtitle: "Sharan Sharma’s ‘Gunjan Saxena: The Kargil Girl’ has faced a litany of critiques and formal complaints. Yet it departs from convention in modest ways."
-author: 
+author: "Mayukh Sen"
 author-bio: "MAYUKH SEN is a writer who covers film, food, and books. He has won a James Beard Award for his food writing, and he teaches food journalism at New York University. His first book, on immigrant food in America, is forthcoming from W.W. Norton & Company in Fall 2021."
 cover-art: /assets/img/akademi/0c725e_06bb1a93c2d54c7b805e1a542ddfd9e2_mv2.jpg
 cover-artist: "Amogh Bhatnagar"
@@ -11,11 +11,8 @@ date-approx: true
 source-url: https://www.akademimag.com/fight-and-flight
 archived-snapshot: 20220527223713
 feed: show
+hero: /assets/img/akademi/0c725e_06bb1a93c2d54c7b805e1a542ddfd9e2_mv2.jpg
 ---
-###### Sharan Sharma’s ‘Gunjan Saxena: The Kargil Girl’ has faced a litany of critiques and formal complaints. Yet it departs from convention in modest ways.
-
-MAYUKH SEN
-
 The actress Rekha has long had one of Hindi cinema’s most famous outsider narratives. The daughter of South Indian film royalty, Rekha initially found herself at the receiving end of cruelty when she made the trek up North: she was too big, too dark, too other for Bollywood to embrace. So she proved her detractors wrong through hard work, subverting their narrow biases.
 
 In Sharan Sharma’s fictionalized and dramatized biopic Gunjan Saxena: The Kargil Girl (2020), the title protagonist’s father (Pankaj Tripathi) invokes Rekha’s trajectory when his daughter (Janhvi Kapoor) nearly abandons her dreams of becoming a pilot in the Indian Air Force (IAF). ‘If Ms. Rekha can do it, what’s stopping Ms. Gunjan?’ he asks, holding up a film magazine that bears Rekha’s face. The magazine details the star’s supposed weight loss regimen. The troubling implications of Rekha’s story—how she, like so many women in Bollywood (including Kapoor’s mother, the late Sridevi), had been held to punishing physical standards rarely put upon men—simmer beneath the surface of this scene.

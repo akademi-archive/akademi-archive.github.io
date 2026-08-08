@@ -11,9 +11,9 @@ date-approx: true
 source-url: https://www.akademimag.com/the-audacity-to-ask-questions
 archived-snapshot: 20220527225718
 feed: show
+hero: /assets/img/akademi/0c725e_186fdae1c12f47aab863463b19f40536_mv2.jpg
+hero-alt: "audacity-questions-web.jpg"
 ---
-![audacity-questions-web.jpg](/assets/img/akademi/0c725e_186fdae1c12f47aab863463b19f40536_mv2.jpg)
-
 Late in the afternoon on 11 August 2020, three journalists working with The Caravan, an independent news publication based out of New Delhi, were brutally attacked by a Hindu mob while reporting in Subhash Mohalla, in North East Delhi’s North Ghonda neighbourhood. On 5 August 2020 – the day of the bhoomi pujan for the construction of Ayodhya’s much contested Ram Mandir – many Hindus celebrated in public space across the city. Saffron flags were hoisted, diyas lit and fire crackers burst. After nightfall, in Lane 2 of Subhash Mohalla, saffron flags appeared at the entrance of the street, which led up to a mosque. Residents also allege to have overheard [‘communally charged’ rallying cries](https://thewire.in/communalism/north-east-delhi-saffron-flags-bhoomi-pujan).
 
 The three journalists were in the neighbourhood for follow-up reporting on a story they had published the day before. When they started taking photos of the saffron flags tied in the locality, a mob of about fifty to one hundred local residents surrounded and assaulted them. Shahid Tantray, assistant photo editor at The Caravan, was asked to show his ID card. When they realised he was Muslim, [he was badly beaten, threatened with murder and had communal slurs hurled at him](https://caravanmagazine.in/crime/the-caravan-journalists-assaulted-sexually-harassed-in-northeast-delhi). The situation escalated to such a degree that journalist Prabhjit Singh, who was present at the scene with Tantray, said that had he not been there, ‘the mob led by that saffron-clad man would have lynched Shahid for his Muslim identity.’ This saffron-clad man from the mob identified himself as a BJP ‘general secretary’ and told the journalists, ‘I have seen many wretched journalists like you. I am a BJP general secretary, you can’t do anything to us.’

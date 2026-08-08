@@ -11,9 +11,9 @@ date-approx: true
 source-url: https://www.akademimag.com/dalit-lives-matter
 archived-snapshot: 20220527214716
 feed: show
+hero: /assets/img/akademi/0c725e_223231648a284422b31c891eafbb66cf_mv2.jpg
+hero-alt: "dalit_atrocities_1.jpg"
 ---
-![dalit_atrocities_1.jpg](/assets/img/akademi/0c725e_223231648a284422b31c891eafbb66cf_mv2.jpg)
-
 Amnesty International documented a total of 902 incidents of alleged hate crimes between September 2015 and June 2019, out of which 619 alleged hate crimes were committed against Dalits. According to the Human Rights Watch, around 165 million people in India face violence on the basis of their caste. The number of atrocities committed against Dalits across the country during the year 2017 has gone up,  according to the latest NCRB data. The number of atrocities committed against scheduled castes (SCs) during the year was 21.5  per cent with over 43,200 cases. The number of cases recorded are a rise from 40,801 during 2016 and 38,670 during 2015.
 
 ​

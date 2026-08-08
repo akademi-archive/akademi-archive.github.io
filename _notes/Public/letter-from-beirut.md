@@ -11,9 +11,9 @@ date-approx: true
 source-url: https://www.akademimag.com/letter-from-beirut
 archived-snapshot: 20220527221336
 feed: show
+hero: /assets/img/akademi/0c725e_7996090f655c47dc81aefa5ae506ff23_mv2.jpg
+hero-alt: "letter-to-beirut-web.jpg"
 ---
-![letter-to-beirut-web.jpg](/assets/img/akademi/0c725e_7996090f655c47dc81aefa5ae506ff23_mv2.jpg)
-
 7 August 2020
 
 A FRIEND WRITES FROM LEBANON:

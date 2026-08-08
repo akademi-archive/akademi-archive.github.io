@@ -2,7 +2,7 @@
 filed-under: 
 title: "#ChallengeAccepted, What About Privacy?"
 subtitle: "Are social media #challenges harmless fun between friends? A way to show solidarity? Or is it a more sinister means to an end? That of data mining."
-author: 
+author: "Nina Sangma"
 author-bio: "NINA SANGMA is an independent writer who writes on culture and designs content marketing campaigns for brands. She has worked as copywriter, television news producer, editor and brand strategist for over 14 years in radio, TV and digital media."
 cover-art: /assets/img/akademi/0c725e_9cc0385c36bf4a6cac9fd1e422862ad4_mv2.jpeg
 cover-artist: 
@@ -11,14 +11,9 @@ date-approx: true
 source-url: https://www.akademimag.com/challenge-accepted
 archived-snapshot: 20220527220304
 feed: show
+hero: /assets/img/akademi/0c725e_9cc0385c36bf4a6cac9fd1e422862ad4_mv2.jpeg
 ---
-# #ChallengeAccepted,
-
 # but what about Privacy?
-
-###### [Are social media #challenges harmless fun between friends? A way to show solidarity? Or is it a more sinister means to an end? That of data mining.](https://www.akademimag.com/nep-2020)
-
-NINA SANGMA
 
 The pandemic has ensured that many of us are now hardwired into the digital sphere. Whether for work or for socializing, screens have replaced shoes. In a recent internet fad called the #ChallengeAccepted campaign, women tagged other women they knew to show solidarity by posting black and white photos of themselves. In an internet tag race, each user tags others thus forming a daisy chain of women posting encouraging selfies.
 
