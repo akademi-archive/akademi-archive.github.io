@@ -2,17 +2,18 @@
 filed-under: Society
 title: "The Prison Between Mountains"
 subtitle: 
-author: "Masrat Zahra"
+author: "Masrat Zahra and Skye Arundhati Thomas"
 author-bio: "MASRAT ZAHRA is a Kashmiri photojournalist and recipient of the International Women’s Media Foundation (IWMF) 2020 Anja Neidringhaus Courage in Photojournalism Award. She reports mostly about women and children in conflict. ​ SKYE ARUNDHATI THOMAS is a writer and editor"
 cover-art: /assets/img/akademi/0c725e_4aeee9a9e76549bbaf0c049fb90abee3_mv2.jpg
-cover-artist: "MASRAT ZAHRA TEXT by SKYE ARUNDHATI THOMAS"
+cover-artist: "Masrat Zahra"
 date: 2020-08-05
 date-approx: false
 source-url: https://www.akademimag.com/prison-between-mountains
 archived-snapshot: 20210115203245
 feed: show
 hero: /assets/img/akademi/0c725e_4aeee9a9e76549bbaf0c049fb90abee3_mv2.jpg
-authors: [masrat-zahra]
+authors: [masrat-zahra, skye-arundhati-thomas]
+byline: "Photographs by Masrat Zahra · Text by Skye Arundhati Thomas"
 ---
 Indian troops stand guard as a Kashmiri man walks by with his child. Srinagar. 1 January 2017
 

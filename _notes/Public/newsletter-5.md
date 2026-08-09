@@ -5,7 +5,7 @@ subtitle: "This edition of the newsletter touches upon the Beirut blast and the 
 author: "Sukhnidh Kaur"
 author-bio: "SUKHNIDH KAUR writes and researches about human behaviour, politics, and the internet. You can find her at @pavemented on Instagram. Love, Pavemented Newsletter offers insights into contemporary politics and philosophy, global news headlines, gems from the internet, curated messages from inspiring figures exclusively for readers, and more, twice a month. Click here to subscribe."
 cover-art: /assets/img/akademi/0c725e_bd1ff17a2ef14dd0ae2c1a6407ce599a_mv2.png
-cover-artist: "Manu Ferneini . Summertime in a crisis-hit country, June 2020. Manu is a Lebanese documentary photographer living in Beirut and her photographs revolve around notions of social identity. The open-edition print is available to ship worldwide as part of For The Love of Beirut Print Sale with all proceeds going to the Lebanese Red Cross. Click here to purchase. Courtesy of the Artist."
+cover-artist: "Manu Ferneini"
 date: 2020-10-31
 date-approx: true
 source-url: https://www.akademimag.com/newsletter-5
@@ -14,6 +14,7 @@ feed: show
 hero: /assets/img/akademi/0c725e_bd1ff17a2ef14dd0ae2c1a6407ce599a_mv2.png
 authors: [sukhnidh-kaur]
 series: "Love, Pavemented"
+cover-caption: "Summertime in a crisis-hit country, June 2020. Manu is a Lebanese documentary photographer living in Beirut and her photographs revolve around notions of social identity. Courtesy of the Artist."
 ---
 ## Beirut Blasts and
 

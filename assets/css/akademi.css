@@ -406,3 +406,14 @@ body.ak {
   font-family: var(--ak-display); font-size: 0.72rem; color: var(--ak-muted);
   font-variant-numeric: tabular-nums;
 }
+
+.ak-hero figcaption {
+  max-width: var(--ak-measure);
+  margin: 0.7rem auto 0;
+  padding: 0 1.5rem;
+  font-family: var(--ak-display);
+  font-size: 0.8rem;
+  line-height: 1.5;
+  color: var(--ak-muted);
+}
+.ak-hero figcaption .ak-credit-name { color: var(--ak-ink); }

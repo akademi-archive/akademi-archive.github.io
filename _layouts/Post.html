@@ -58,6 +58,9 @@
     {%- if page.hero and page.hero != "" -%}
     <figure class="ak-hero">
         <img src="{{ site.baseurl }}{{ page.hero }}" alt="{{ page['hero-alt'] }}">
+        {%- if page['cover-caption'] and page['cover-caption'] != "" -%}
+        <figcaption>{% if page['cover-artist'] and page['cover-artist'] != "" %}<span class="ak-credit-name">{{ page['cover-artist'] }}</span> · {% endif %}{{ page['cover-caption'] }}</figcaption>
+        {%- endif -%}
     </figure>
     {%- endif -%}
     <article class="ak-article">
@@ -76,7 +79,11 @@
             {%- endif -%}
 
             <p class="ak-byline">
-                {%- if page.authors and page.authors.size > 0 -%}
+                {%- comment -%} Some pieces credit distinct roles ("Photographs by X,
+                    Text by Y"); keep that wording rather than flattening to "Words by". {%- endcomment -%}
+                {%- if page.byline and page.byline != "" -%}
+                {{ page.byline }}
+                {%- elsif page.authors and page.authors.size > 0 -%}
                 Words by&nbsp;{% for a in page.authors %}
                   {%- assign who = site.authors | where: "slug", a | first -%}
                   {%- if who -%}
@@ -91,7 +98,12 @@
                 {%- if page["date-approx"] %} <em>(approx.)</em>{%- endif -%}
                 {%- endif -%}
                 {%- assign ak_artist = page["cover-artist"] -%}
-                {%- if ak_artist and ak_artist != "" -%}
+                {%- comment -%} don't repeat the artist if a role byline already names them {%- endcomment -%}
+                {%- assign ak_dup = false -%}
+                {%- if page.byline and ak_artist and ak_artist != "" -%}
+                  {%- if page.byline contains ak_artist -%}{%- assign ak_dup = true -%}{%- endif -%}
+                {%- endif -%}
+                {%- if ak_artist and ak_artist != "" and ak_dup == false -%}
                 <br>Artwork by <span class="name">{{ ak_artist }}</span>
                 {%- endif -%}
             </p>

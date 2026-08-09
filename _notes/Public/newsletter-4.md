@@ -5,7 +5,7 @@ subtitle: "This edition of Love, Pavemented looks at how citizens of Kashmir are
 author: "Sukhnidh Kaur"
 author-bio: "SUKHNIDH KAUR writes and researches about human behaviour, politics, and the internet. You can find her at @pavemented on Instagram. Love, Pavemented Newsletter offers insights into contemporary politics and philosophy, global news headlines, gems from the internet, curated messages from inspiring figures exclusively for readers, and more, twice a month. Click here to subscribe."
 cover-art: /assets/img/akademi/0c725e_6c4996be0ed14a96b2786bc78499b37b_mv2.png
-cover-artist: "Darash Dawood Low-speed internet was restored after 6 months of communication blockade, but the Government imposed a ban on social media."
+cover-artist: "Darash Dawood"
 date: 2020-10-31
 date-approx: true
 source-url: https://www.akademimag.com/newsletter-4
@@ -14,6 +14,7 @@ feed: show
 hero: /assets/img/akademi/0c725e_6c4996be0ed14a96b2786bc78499b37b_mv2.png
 authors: [sukhnidh-kaur]
 series: "Love, Pavemented"
+cover-caption: "Low-speed internet was restored after 6 months of communication blockade, but the Government imposed a ban on social media."
 ---
 ## Digitally Silencing
 
